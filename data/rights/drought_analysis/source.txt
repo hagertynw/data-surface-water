@@ -1,0 +1,12 @@
+URL: https://www.waterboards.ca.gov/waterrights/water_issues/programs/drought/analysis/
+
+Downloaded: "2015 Informational Order Demand Dataset (with embedded calculations) (41.53 MB) - Updated June 15, 2015"
+https://www.waterboards.ca.gov/waterrights/water_issues/programs/drought/analysis/docs/info_order_demand.xlsx
+
+Used first tab: "WRUDS 2015-06-15". File too large to import into Stata, so first saved each tab as a separate worksheet.
+
+This spreadsheet is explained in Exhibit WR-11, Testimony of Jeffrey Yeazell, downloaded from:
+https://www.waterboards.ca.gov/waterrights/water_issues/programs/hearings/byron_bethany/docs/exhibits/pt/wr11.pdf
+
+"The Information Order was sent to 1,061 Statement holders representing the top 90% of reported Riparian and Pre-1914 demand in the Delta, and the top 90% of reported Riparian and Pre-1914 demand in the Sacramento and San Joaquin watersheds. The order required, among other items, that those diverters report their actual diversions for 2014 and forecasted diversions for 2015."
+

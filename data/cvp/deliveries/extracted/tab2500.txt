@@ -1,0 +1,47 @@
+                                        U.S. Department of Interior - Bureau of Reclamation                   Table 25
+                                               Central Valley Operations Office
+ 
+                                               Delta-Mendota Canal
+Monthly Deliveries in AF                              2000
+ 
+        Water User          Jan    Feb    Mar    Apr    May    Jun    Jul    Aug    Sep    Oct    Nov    Dec   Total
+ 
+Banta Carbona ID               0      0      0    672    216    155   1141      7      2      0      0      0    2193
+Broadview WD                 176   2169   1358    881   1026   4196   4106   1983      0      0             7   15902
+Central California ID (Abv   447      0    805   1647   2241   2025   2432   2301   1762    685      0     24   14369
+Central California ID (Blw  6969    216    418   2917  15968  15378  17999  14325     35     34     35     93   74387
+Centinella WD                 14      0     35     95    153    184    253    131     36     12      0      0     913
+China Island (76.05)           0      0      0      0      0      0      0      0      0      0      0      0       0
+Del Puerto WD                962     51   1215   8661  11352  14053  16173  12109   5087    267    144    420   70494
+Eagle Field WD                 0    308     77    338    530    941    916    367      1      0      1      0    3479
+Firebaugh Canal              292    704      0      0    698   5453   7345   5730      2      0      0    609   20833
+Frietas Unit (76.05L)       1156    467    394      0    488      0    821      0    901   1396      0      0    5623
+Mercy Springs WD               0    128     19    220    419    563    615    270    130     17      0      0    2381
+Oro Loma WD                    0     66      0    362    829    835    977    858     28      0      0      0    3955
+Panoche WD - Ag                4     38    138    305    660   1418   1336   1118    290     42      1     14    5364
+   "    " -  M&I               2      3      2      3      2      6      1      4      2      3      2      3      33
+Patterson WD                 426    841     11    259    382   1076   1213    897   1403    170     35     13    6726
+Plainview WD                  22     20    143   1012   1000   1165   1463   1213    427    192      8      6    6671
+Salt Slough Unit (76.05L)   1131   1022    686      0    449      0    799      0   1472   1413    770      0    7742
+San Luis WD - Ag              95    633    712    992   1111   2380   2407   1756    347     83      4    111   10631
+ "    "  -  M&I                4      1      9     13     12     31     34     38     12      1      1      1     157
+Tracy, City of                76      0    477    781    797    867    979   1110    880    974    445    406    7792
+West Side ID                   0      0      0    130     62    381    475    160     86      0      0      0    1294
+Wildren                        0      1      0    137      0      0      0      0      0      0      0      0     138
+W. Stanislaus ID               1      0   1282   1961   2834   4501   5693   5791   1402     17      0    224   23706
+ 
+F&G - Los Banos Ref. 76.05  1077    505    392      0    705    151    817    277   1427   1501    618    129    7599
+Volta Wildlife Mgmt Area       0    237      0      0      0      0      0   1009   1604   1325    520    372    5067
+Grasslands -76.05L          2342    136      0      0      0   4456   5235   8850  19268    133      0      0   40420
+Grasslands - Volta           735      0      0      0   5464     40      0     40  14923   6175   1003    372   28752
+F&S (Volta) Santa Fee Kest   813      0      0      0   1038      0      0      0   1026   1201    434      0    4512
+F&S - Kesterson  76.05L        0    468    115      0      0      0    383      0      0      0      8      0     974
+ 
+Total DMC Deliveries       16744   8014   8288  21386  48436  60255  73613  60344  52553  15641   4029   2804  372107
+ 
+Oneill Pumped             156863 173195 181173  39598 -87347 -22313  27920  67518  98298 258757 193450 192295 1279407
+ 
+DMC plus Oneill           173607 181209 189461  60984 -38911  37942 101533 127862 150851 274398 197479 195099 1651514
+ 
+* Data supplied by San Luis Delta-Mendota Water Authority
+July's total revised 8/28/2000

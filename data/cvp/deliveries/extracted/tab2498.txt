@@ -1,0 +1,43 @@
+Revised 6/27/02 using Watermasters Report of Diversions                                                          Table 24
+                                            U.S. Department of Interior - Bureau of Reclamation
+                                                    Central Valley Operations Office
+ 
+                                                           San Joaquin and Mendota Pool
+ 
+    Monthly Deliveries in AF                                1998
+ 
+           Water User              Jan   Feb     Mar    Apr    May    Jun    Jul    Aug    Sep    Oct   Nov   Dec Total
+ 
+Central California ID             717  2228   18351   6757  10102  53780  92090  86529  56126  16759 10091  1677  355207
+Columbia Canal Co                   0   970    8011   4483   3574   6502  10604  10090   5701   3088    26    38   53087
+Firebaugh Canal Co                311     0     904   1285   1866   5828   5976   5647   3464   2543  1307   313   29444
+San Luis Canal Co                   0     0    8969   6834  13578  22863  37671  33404  18362  10617  2857  2100  157255
+ 
+Fresno Slough WD                    0     0       0      0      0      0    280    443    109    135     0     0     967
+Hughes, Melvin                      0     0       0      0      0      0      0     20     10      0     0     0      30
+James ID                            0    69       0      0      0      0    459   8054   4370      0   122     0   13074
+Laguna WD                           0     0       0      0      0      0    400    400      0    176     0     0     976
+Dudley & Indart  *                  0     0       0      0      0      0    489    218     26      0     0     0     733
+Mid-Valley WD                       0     0       0      0      0      0    656    944    192      0    88   371    2251
+Terra Linda (Goodman)               0   300       0      0      0      0    555   1600    529    287    41     0    3312
+Tranquility ID                      0     0       0      0      0      0   2098   4006    716    473     0     0    7293
+Wilson, J.W.                        0     0       0     47      0    239      1     35     20      0     0     0     342
+ 
+Grassland WD -W1430
+   Grassland (CCID)              5377   355     173     25     57    271    694    291  21405  24234 25876  8090   86848
+ 
+USFW  - W1431
+   Kesterson NWR - 76.05 L       6200  4200       0      0      0      0      0      0      0   3106  5189     0   18695
+ 
+State Fish & Game W1429
+   Mendota Wildlife               824     0       0      0      0      0    407   1399   3079   6887  2892  2115   17603
+ 
+Dept. Fish & Game
+   Traction Ranch                 212     0       0      0      0      0    291    649    446   1242   730   319    3889
+ 
+DWR -  F&W - W1139
+    Kern National Wildlife       1101     0       0      0      0      0      0   1613   3077   3831  3551   848   14021
+ 
+Monthly Total                   14742  8122   36408  19431  29177  89483 152671 155342 117632  73378 52770 15871  765027
+ 
+* Formerly known as Meyers/Marchini Farms

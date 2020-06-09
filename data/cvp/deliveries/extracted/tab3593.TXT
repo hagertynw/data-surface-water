@@ -1,0 +1,62 @@
+                                                                                             Table 35
+ 
+                       UNITED STATES DEPARTMENT OF THE INTERIOR - BUREAU OF RECLAMATION
+ 
+                                   SAN LUIS AND CROSS VALLEY CANALS
+                                                  1993
+MONTHLY DELIVERIES IN AF
+       WATER USERS        JAN   FEB   MAR   APR    MAY    JUN    JUL    AUG   SEP   OCT   NOV   DEC  TOTAL
+ 
+SAN LUIS CANAL
+  CITY OF AVENAL         128   113   145   154    210    203    248    251   222   183   168   147   2172
+  BROADVIEW W.D.           0     0     0     4      2      3      4      4     3     3     1     0     24
+  CITY OF COALINGA       132   130   101   330    370    462    617    537   400   465   240   159   3943
+  CITY DOS PALOS          61    53    73    91    130    141    166    150   125   101    77    62   1230
+  CAWELO W.D.              0     0     0     0      0      0      0      0     0     0     0     0      0
+  F&W- KERN NAT WLD.       0     0     0     0      0      0      0      0     0     0     0     0      0
+  GREEN VALLEY             0     0     0     0      0      0      0      0     0     0     0     0      0
+  CITY OF HURON           47    44    63    77     72     81     99     99    75    89    82    47    875
+  KINGS COUNTY W.D.        0     0     0     0      0      0      0      0     0     0     0     0      0
+  LAKESIDE I.D.            0     0     0     0      0      0      0      0     0     0     0     0      0
+  LOWER TULE RIVER ID      0     0     0     0      0      0      0      0     0     0     0     0      0
+  MURREITTA FARMS          0     0     0     0      0      0      0      0     0     0     0     0      0
+  PACHECO W.D.           814   166   319   660   1506    898    911    397   236     1    98   349   6355
+  PANOCHE W.D.           386  1398  3224  2585   3050   8061  12966   8670  1209  1227  3245  4489  50510
+  PIXLEY I.D.              0     0     0     0      0      0      0      0     0     0     0     0      0
+  PLEASANT VALLEY W.D.     0     0     0     0      0      0      0      0     0     0     0     0      0
+  SAN JOAQUIN DRAIN. PR    0     0     0     0      0      0      0      0     0     0     0     0      0
+  SAN LUIS DRAIN (USBR)    0     0     0     0      0      0      0      0     0     0     0     0      0
+  SAN LUIS W.D.          426  1822  3713  1559   4588   8396  12587   9153  1622  1054  1291  1513  47724
+  CA-MENDOTA WATERFOWL     0     4    29    11      7     18     54     48    42    67    40    21    341
+  WESTLANDS W.D.        4008  4994 24490 48228 104907 154688 194092 122279 28797 32128 31063 53135 802809
+  KERN NATL WL REFUGE      0   120     0     0      0      0      0      0     0  3888  4143  4401  12552
+  CONSTRUCTION WATER       0     0     3     0     12      0      0      0     0    45     0     3     63
+  WARREN CONTRACTS         0     0     0     0      0      0      0      0     0   805   444   660   1909
+  MILLERTON LK SVC CONT    0     0     0     0      0      0      0      0     0     0     0     0      0
+ 
+  TOTAL                 6002  8844 32160 53699 114854 172951 221744 141588 32731 40056 40892 64986 930507
+ 
+O'NEILL FOREBAY DELIVERIES
+  O'NEILL FORE. WILDLIF    1    59     0     0    141     12    195    203    67   132    82    82    974
+  SAN LUIS W.D.  AG       29    65   260   919   1558   1828   2460   2102  1151   337   184   126  11019
+                 M&I      19    26    25    32     40     43     51     56    49    41    31    27    440
+  VA CEMETARY                    1     1     1      2      4      4      7     5     1     2     1     29
+ 
+  TOTAL                   49   151   286   952   1741   1887   2710   2368  1272   511   299   236  12462
+ 
+CROSS VALLEY CANAL
+  ARVIN-EDISON W.S.D.      0     0     0     0      0      0      0      0     0     0     0     0      0
+  KERN-TULARE              0     0     0     0      0      0      0      0     0     0     0     0      0
+  PIXLEY ID                0     0     0     0      0      0      0      0     0     0     0     0      0
+  RAG GULCH                0     0     0     0      0      0      0      0     0     0     0     0      0
+ 
+  TOTAL                    0     0     0     0      0      0      0      0     0     0     0     0      0
+ 
+SAN FELIPE DIVISION
+  SAN BENITO               9  1393   612  1231   2470   3441   4067   3996  5046   826  2776  2874  28741
+  SANTA CLARA           2795   156  3717  2234   8442   8522   8687   5307  6609  6650 10678 10650  74447
+ 
+                        2804  1549  4329  3465  10912  11963  12754   9303 11655  7476 13454 13524 103188
+ 
+* Data supplied by Fresno Field Division, Contracts Administration Division for
+  San Luis Canal and Cross Valley Canal; Tracy Field Division, Water Division for O'Neill Forebay

@@ -1,0 +1,45 @@
+                                                                                                             TABLE 34
+                                              U.S. Department of Interior - Bureau of Reclamation
+ 
+                                                     Delta-Mendota Canal
+ 
+                                                            1996
+MONTHLY DELIVERIES IN AF
+ 
+       WATER USERS           JAN    FEB    MAR    APR    MAY    JUN    JUL    AUG    SEP    OCT    NOV    DEC   TOTAL
+ 
+BANTA-CARBONA ID              0      0      0    196   2297    594   2937    353    123      0      0      0    6500
+BROADVIEW WD               1267   1357    699    621   1606   4523   4097   3245    151      3      0     98   17667
+CENTRAL CALIF ID             10      0    114   2061   5834  21066  23547  19835   2235    430     83      0   75215
+CENTINELLA WD                29      0     14    258    304    290    431    206    117     10      0      0    1659
+DEL PUERTO WD                96     14    366   7116  13154  13922  20250  15705   7898   3590    269     10   82390
+EAGLE FIELD WD              383     17    163    266    334    785    858    543    121    119      0      0    3589
+FIREBAUGH CANAL             371    429    445      0   1795   7072  10239   7862      0      0    290     36   28539
+DEL PUERTO (Foothill)         0      6    103    725   1664   1476   2109   1631   1250    691    197      0    9852
+MERCY SPRINGS WD             16    689     10    437   1087   1374   1588   1618    247     94      0      0    7160
+ORESTIMBA WD                  0      0      0      0      0      0      0      0      0      0      0      0       0
+ORO LOMA WD                   0    108      0    295   1103    783   1070    793     61      0      0      0    4213
+PANOCHE WD - AG             126    228     22    339    442    648   1308   1291    282    106     74    181    5047
+   "    "  - M&I              2      3      2      3      2      3      2      3      2      3      2      3      30
+PATTERSON WD                  0      0     90    790    919   1682   2884   2913    986    455      6      0   10725
+PLAIN VIEW WD                12     12     16    446   1476   1572   2228   1983   1516    432     65     18    9776
+SAN LUIS WD -  AG           540    974    423   1595   1416   2764   3826   3243    910    478     26      1   16196
+ "    "-  M&I                 1      1      3     16     22     32     32     35     31      8      1      1     183
+TRACY, CITY OF                0      0    421    585    952   1136   1203   1190   1083    901    655    419    8545
+WEST SIDE ID                  0      0      0     33    787    187    606   1242    137      0      0      0    2992
+W. STANISLAUS I.D.            0      0    135   5856   6878   8301  11189   6349     33    744      0      0   39485
+WILDREN WD                   10     70      0     23    178    147    173    109     20      0      0      0     730
+FISH & WILDLF - VOLTA       744      0      0     54    605    250     49     40    345    984    809      0    3880
+VOLTA WL MGMT               160      0      0    291    637    678      0    865   1919   2192    459    115    7316
+LOS BANOS NWR               615    668    732    815   1033   1505   1426   1260   2678   1743    456      0   12931
+SAN LUIS NWR                  0  13337      0      0      0      0      0      0      0      0      0      0   13337
+KESTERSON NWR               402    893      0    595   1115    817    307    284    657   1252      0      0    6322
+GRASSLANDS                    0    111      0   1666   9129   7311   9210   6827  23085  18745   3959   1117   81160
+ 
+Total DMC Deliveries       4784  18917   3758  25082  54769  78918 101569  79425  45887  32980   7351   1999  455439
+ 
+O'Neill Pump/Generation  228048 141044  22565  80036  26885  32820 -15065  20088 111954 131097 195895 232734 1208101
+ 
+DMC plus O'Neill         232832 159961  26323 105118  81654 111738  86504  99513 157841 164077 203246 234733 1663540
+ 
+* Data supplied by San Luis Delta-Mendota Water Authority

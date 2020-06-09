@@ -1,0 +1,47 @@
+Revised 6/27/02 using Watermasters Report of Diversions                                                Table 24
+                                       U.S. Department of Interior - Bureau of Reclamation
+                                             Central Valley Operations Office
+ 
+                                             San Joaquin and Mendota Pool
+ Monthly Deliveries in AF                           2000
+ 
+        Water User          Jan   Feb   Mar   Apr    May    Jun    Jul    Aug   Sep   Oct   Nov   Dec   Total
+ 
+Fresno Slough WD               0   449   154   265    573    560    740    359   101    59     0     0    3260
+Hughes, Melvin                 0     0     0     0     46     29      0      0     0     0     0     0      75
+James ID                       0   770   255  1022   2865   9421   9560   7046  2023   397   137     0   33496
+Laguna WD                      0     0     0     0      0      0      0      0     0     0     0     0       0
+Dudley & Indart               11   467    85   225    466    743    613    602   242    58    17   148    3677
+Mid-Valley WD                  0     0     0     0      0      0      0    249    26    17     0     0     292
+Reclamation 1606               0     0     0     0      0    128     84     98     0     0     0     0     310
+Terra Linda (Goodman)         24   531   346   913    867   1710   1673    984   283   685   272   332    8620
+Tranquility ID                 0  3932  1767  1393   2551   6555   5909   4012   685   144    61     0   27009
+Wilson, J.W.                   0    67    54    83     66    193    293    319    68     0     0     0    1143
+ 
+        Total                 35  6216  2661  3901   7434  19339  18872  13669  3428  1360   487   480   77882
+ 
+Exchange Contractors
+    Central California ID    121 17229 24263 32085  58835  72950  71342  62950 28943 24159 11353 10474  414704
+    Columbia Canal Co         20  2152  8019  5127   6254   9152  10187   9602  4582  1583     0   177   56855
+    Firebaugh Canal Co       347  5673  2951  3400   6022   6510   5322   4675  2664   849  1420   817   40650
+    San Luis Canal Co          0   871 13942 15724  16144  26015  27531  26041 11534  3787    71  2929  144589
+        Total                488 25925 49175 56336  87255 114627 114382 103268 47723 30378 12844 14397  656798
+ 
+Refuges
+  Grassland WD
+      #00-WC-20-1646 (Forme 7426  7090  3836    21    460   9882  10881  18194 68004 26995 11995 18805  183589
+ 
+  State Fish & Wildlife Service
+      #00-WC-20-1647 (forme    0     0   279     0      0    540    298      0     0    18     0   882    2017
+ 
+  State Fish & Wildlife Service - DWR
+  #00-WC-20-1647 (Formerly 9-07-20-W1600)
+          Kern National Wil  709     0     0   306    363      0      0    245  3695  5486  4346  2627   17777
+ 
+  State Fish & Game
+      #00-WC-20-1648 (Forme 1475   818    89   168   1263   1526   2023   1233  4565  5936  4526  2664   26286
+ 
+  DFG Traction Ranch
+      #14-06-200-7859Z       238   580   272   149    832    657   1196    586  1114  1039   719   185    7567
+ 
+            Total           9848  8488  4476   644   2918  12605  14398  20258 77378 39474 21586 25163  237236

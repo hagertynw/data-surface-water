@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20170416</CreaDate><CreaTime>21155400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.3\ArcToolbox\Toolboxes\Conversion Tools.tbx\JSONToFeatures" Date="20170416" Time="211554">JSONToFeatures water_agencies1501.json H:\data\GIS\ca\dwr\districts\water_agencies1501.shp</Process></lineage></DataProperties></Esri></metadata>

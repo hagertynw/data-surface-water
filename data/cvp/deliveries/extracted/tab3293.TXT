@@ -1,0 +1,32 @@
+                                                                                                        TABLE 32
+ 
+                           UNITED STATES DEPARTMENT OF THE INTERIOR -   BUREAU OF RECLAMATION
+ 
+                                                MADERA CANAL AND MILLERTON LAKE
+                                                               1993
+ 
+MONTHLY DELIVERIES IN AF
+       WATER USERS            JAN   FEB     MAR    APR    MAY    JUN    JUL    AUG    SEP    OCT    NOV    DEC   TOTAL
+ 
+MADERA CANAL
+ 
+  ADOBE RANCH                   0      0      0      0      0      0      0      0      0      0      0      0       0
+  CHOWCHILLA W.D.               0      0  12577  19075  26892  26373  31321  30885  20541  13555      0      0  181219
+  MADERA I.D.                   0      0  14699  28395  33993  33208  41111  25626  24167  20116   5151      0  226466
+  GRAVELLY FORD                 0      0   2029   2239   2942   3678   3342   2526    272      0      0      0   17028
+  LA BRANZA W.D.                0      0      0      0      0      0      0      0      0      0      0      0       0
+  OPERATIONAL WATER             0      0      0      0      0      0      0      0      0      0      0      0       0
+  SOQUEL WATER                  0      0   3035   2790   2883   2618    602    132    131     27      0      0   12218
+ 
+     TOTAL                      0      0  32340  52499  66710  65877  76376  59169  45111  33698   5151      0  436931
+ 
+ 
+MILLERTON LAKE
+ 
+  COUNTY OF MADERA              2      1      1      2      6      5      7      7     40     20      2      2      95
+  FRESNO COUNTY W.D. #18        5     65      2      2      2      3      7      5      7      5      1      5     109
+ 
+     TOTAL                      7     66      3      4      8      8     14     12     47     25      3      7     204
+ 
+ 
+*  Data supplied by Fresno Field Division, Contracts Administration Division

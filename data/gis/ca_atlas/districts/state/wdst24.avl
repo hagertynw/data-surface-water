@@ -1,0 +1,1340 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	161
+	Class:	162
+	Class:	163
+	Class:	164
+	Class:	165
+	Class:	166
+	Class:	167
+	Class:	168
+	Class:	169
+	Class:	170
+	Class:	171
+	Class:	172
+	Class:	173
+	Class:	174
+	Class:	175
+	Class:	176
+	Class:	177
+	Class:	178
+	Class:	179
+	Class:	180
+	Class:	181
+	Class:	182
+	Class:	183
+	Class:	184
+	Class:	185
+	Class:	186
+	Class:	187
+	Class:	188
+	Class:	189
+	Class:	190
+	Class:	191
+	Class:	192
+	Class:	193
+	Class:	194
+	Class:	195
+	Class:	196
+	Class:	197
+	Class:	198
+	Class:	199
+	StdDevs:	1.00000000000000
+	NullSym:	200
+	NullValues:	204
+	StatValues:	205
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Wdname"
+)
+
+(SymList.4
+	Child:	5
+	Child:	9
+	Child:	13
+	Child:	17
+	Child:	21
+	Child:	25
+	Child:	29
+	Child:	33
+	Child:	37
+	Child:	41
+	Child:	45
+	Child:	49
+	Child:	53
+	Child:	57
+	Child:	61
+	Child:	65
+	Child:	69
+	Child:	73
+	Child:	77
+	Child:	81
+	Child:	85
+	Child:	89
+	Child:	93
+	Child:	97
+	Child:	101
+	Child:	105
+	Child:	109
+	Child:	113
+	Child:	117
+	Child:	121
+	Child:	125
+	Child:	129
+	Child:	133
+	Child:	137
+	Child:	141
+	Child:	145
+	Child:	149
+	Child:	153
+	Child:	157
+)
+
+(BShSym.5
+	Color:	6
+	Outline:	1
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+)
+
+(TClr.6
+	Red:	0xf8e8
+	Green:	0xc33b
+	Blue:	0xfeff
+)
+
+(TClr.7
+)
+
+(TClr.8
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.9
+	Color:	10
+	Outline:	1
+	OutlineColor:	11
+	OutlineWidth:	0.10000000000000
+	BgColor:	12
+)
+
+(TClr.10
+	Red:	0x6995
+	Green:	0xfeff
+	Blue:	0xfef7
+)
+
+(TClr.11
+)
+
+(TClr.12
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.13
+	Color:	14
+	Outline:	1
+	OutlineColor:	15
+	OutlineWidth:	0.10000000000000
+	BgColor:	16
+)
+
+(TClr.14
+	Red:	0xd22c
+	Green:	0xd2e3
+	Blue:	0xfeff
+)
+
+(TClr.15
+)
+
+(TClr.16
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.17
+	Color:	18
+	Outline:	1
+	OutlineColor:	19
+	OutlineWidth:	0.10000000000000
+	BgColor:	20
+)
+
+(TClr.18
+	Red:	0x6995
+	Green:	0xfeff
+	Blue:	0xd171
+)
+
+(TClr.19
+)
+
+(TClr.20
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.21
+	Color:	22
+	Outline:	1
+	OutlineColor:	23
+	OutlineWidth:	0.10000000000000
+	BgColor:	24
+)
+
+(TClr.22
+	Red:	0xf7f6
+	Green:	0xa559
+	Blue:	0xfeff
+)
+
+(TClr.23
+)
+
+(TClr.24
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.25
+	Color:	26
+	Outline:	1
+	OutlineColor:	27
+	OutlineWidth:	0.10000000000000
+	BgColor:	28
+)
+
+(TClr.26
+	Red:	0xa559
+	Green:	0xa6c7
+	Blue:	0xfeff
+)
+
+(TClr.27
+)
+
+(TClr.28
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.29
+	Color:	30
+	Outline:	1
+	OutlineColor:	31
+	OutlineWidth:	0.10000000000000
+	BgColor:	32
+)
+
+(TClr.30
+	Red:	0xea
+	Green:	0xeaff
+	Blue:	0xa3a1
+)
+
+(TClr.31
+)
+
+(TClr.32
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.33
+	Color:	34
+	Outline:	1
+	OutlineColor:	35
+	OutlineWidth:	0.10000000000000
+	BgColor:	36
+)
+
+(TClr.34
+	Red:	0xc2
+	Green:	0xc2ff
+	Blue:	0xc2f4
+)
+
+(TClr.35
+)
+
+(TClr.36
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.37
+	Color:	38
+	Outline:	1
+	OutlineColor:	39
+	OutlineWidth:	0.10000000000000
+	BgColor:	40
+)
+
+(TClr.38
+	Red:	0xeeff
+	Green:	0xacb6
+	Blue:	0xceeb
+)
+
+(TClr.39
+)
+
+(TClr.40
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.41
+	Color:	42
+	Outline:	1
+	OutlineColor:	43
+	OutlineWidth:	0.10000000000000
+	BgColor:	44
+)
+
+(TClr.42
+	Red:	0xaf4f
+	Green:	0xfeff
+	Blue:	0xdd5d
+)
+
+(TClr.43
+)
+
+(TClr.44
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.45
+	Color:	46
+	Outline:	1
+	OutlineColor:	47
+	OutlineWidth:	0.10000000000000
+	BgColor:	48
+)
+
+(TClr.46
+	Red:	0xd22c
+	Green:	0xfeff
+	Blue:	0xfefd
+)
+
+(TClr.47
+)
+
+(TClr.48
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.49
+	Color:	50
+	Outline:	1
+	OutlineColor:	51
+	OutlineWidth:	0.10000000000000
+	BgColor:	52
+)
+
+(TClr.50
+	Red:	0xaf4f
+	Green:	0xdd66
+	Blue:	0xfeff
+)
+
+(TClr.51
+)
+
+(TClr.52
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.53
+	Color:	54
+	Outline:	1
+	OutlineColor:	55
+	OutlineWidth:	0.10000000000000
+	BgColor:	56
+)
+
+(TClr.54
+	Red:	0xe428
+	Green:	0xfeff
+	Blue:	0xb44a
+)
+
+(TClr.55
+)
+
+(TClr.56
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.57
+	Color:	58
+	Outline:	1
+	OutlineColor:	59
+	OutlineWidth:	0.10000000000000
+	BgColor:	60
+)
+
+(TClr.58
+	Red:	0xf8e8
+	Green:	0xc33b
+	Blue:	0xfeff
+)
+
+(TClr.59
+)
+
+(TClr.60
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.61
+	Color:	62
+	Outline:	1
+	OutlineColor:	63
+	OutlineWidth:	0.10000000000000
+	BgColor:	64
+)
+
+(TClr.62
+	Red:	0x6995
+	Green:	0xfeff
+	Blue:	0xfef7
+)
+
+(TClr.63
+)
+
+(TClr.64
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.65
+	Color:	66
+	Outline:	1
+	OutlineColor:	67
+	OutlineWidth:	0.10000000000000
+	BgColor:	68
+)
+
+(TClr.66
+	Red:	0xd22c
+	Green:	0xd2e3
+	Blue:	0xfeff
+)
+
+(TClr.67
+)
+
+(TClr.68
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.69
+	Color:	70
+	Outline:	1
+	OutlineColor:	71
+	OutlineWidth:	0.10000000000000
+	BgColor:	72
+)
+
+(TClr.70
+	Red:	0x6995
+	Green:	0xfeff
+	Blue:	0xd171
+)
+
+(TClr.71
+)
+
+(TClr.72
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.73
+	Color:	74
+	Outline:	1
+	OutlineColor:	75
+	OutlineWidth:	0.10000000000000
+	BgColor:	76
+)
+
+(TClr.74
+	Red:	0xf7f6
+	Green:	0xa559
+	Blue:	0xfeff
+)
+
+(TClr.75
+)
+
+(TClr.76
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.77
+	Color:	78
+	Outline:	1
+	OutlineColor:	79
+	OutlineWidth:	0.10000000000000
+	BgColor:	80
+)
+
+(TClr.78
+	Red:	0xa559
+	Green:	0xa6c7
+	Blue:	0xfeff
+)
+
+(TClr.79
+)
+
+(TClr.80
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.81
+	Color:	82
+	Outline:	1
+	OutlineColor:	83
+	OutlineWidth:	0.10000000000000
+	BgColor:	84
+)
+
+(TClr.82
+	Red:	0xea
+	Green:	0xeaff
+	Blue:	0xa3a1
+)
+
+(TClr.83
+)
+
+(TClr.84
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.85
+	Color:	86
+	Outline:	1
+	OutlineColor:	87
+	OutlineWidth:	0.10000000000000
+	BgColor:	88
+)
+
+(TClr.86
+	Red:	0xc2
+	Green:	0xc2ff
+	Blue:	0xc2f4
+)
+
+(TClr.87
+)
+
+(TClr.88
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.89
+	Color:	90
+	Outline:	1
+	OutlineColor:	91
+	OutlineWidth:	0.10000000000000
+	BgColor:	92
+)
+
+(TClr.90
+	Red:	0xeeff
+	Green:	0xacb6
+	Blue:	0xceeb
+)
+
+(TClr.91
+)
+
+(TClr.92
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.93
+	Color:	94
+	Outline:	1
+	OutlineColor:	95
+	OutlineWidth:	0.10000000000000
+	BgColor:	96
+)
+
+(TClr.94
+	Red:	0xaf4f
+	Green:	0xfeff
+	Blue:	0xdd5d
+)
+
+(TClr.95
+)
+
+(TClr.96
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.97
+	Color:	98
+	Outline:	1
+	OutlineColor:	99
+	OutlineWidth:	0.10000000000000
+	BgColor:	100
+)
+
+(TClr.98
+	Red:	0xd22c
+	Green:	0xfeff
+	Blue:	0xfefd
+)
+
+(TClr.99
+)
+
+(TClr.100
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.101
+	Color:	102
+	Outline:	1
+	OutlineColor:	103
+	OutlineWidth:	0.10000000000000
+	BgColor:	104
+)
+
+(TClr.102
+	Red:	0xaf4f
+	Green:	0xdd66
+	Blue:	0xfeff
+)
+
+(TClr.103
+)
+
+(TClr.104
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.105
+	Color:	106
+	Outline:	1
+	OutlineColor:	107
+	OutlineWidth:	0.10000000000000
+	BgColor:	108
+)
+
+(TClr.106
+	Red:	0xe428
+	Green:	0xfeff
+	Blue:	0xb44a
+)
+
+(TClr.107
+)
+
+(TClr.108
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.109
+	Color:	110
+	Outline:	1
+	OutlineColor:	111
+	OutlineWidth:	0.10000000000000
+	BgColor:	112
+)
+
+(TClr.110
+	Red:	0xf8e8
+	Green:	0xc33b
+	Blue:	0xfeff
+)
+
+(TClr.111
+)
+
+(TClr.112
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.113
+	Color:	114
+	Outline:	1
+	OutlineColor:	115
+	OutlineWidth:	0.10000000000000
+	BgColor:	116
+)
+
+(TClr.114
+	Red:	0x6995
+	Green:	0xfeff
+	Blue:	0xfef7
+)
+
+(TClr.115
+)
+
+(TClr.116
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.117
+	Color:	118
+	Outline:	1
+	OutlineColor:	119
+	OutlineWidth:	0.10000000000000
+	BgColor:	120
+)
+
+(TClr.118
+	Red:	0xd22c
+	Green:	0xd2e3
+	Blue:	0xfeff
+)
+
+(TClr.119
+)
+
+(TClr.120
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.121
+	Color:	122
+	Outline:	1
+	OutlineColor:	123
+	OutlineWidth:	0.10000000000000
+	BgColor:	124
+)
+
+(TClr.122
+	Red:	0x6995
+	Green:	0xfeff
+	Blue:	0xd171
+)
+
+(TClr.123
+)
+
+(TClr.124
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.125
+	Color:	126
+	Outline:	1
+	OutlineColor:	127
+	OutlineWidth:	0.10000000000000
+	BgColor:	128
+)
+
+(TClr.126
+	Red:	0xf7f6
+	Green:	0xa559
+	Blue:	0xfeff
+)
+
+(TClr.127
+)
+
+(TClr.128
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.129
+	Color:	130
+	Outline:	1
+	OutlineColor:	131
+	OutlineWidth:	0.10000000000000
+	BgColor:	132
+)
+
+(TClr.130
+	Red:	0xa559
+	Green:	0xa6c7
+	Blue:	0xfeff
+)
+
+(TClr.131
+)
+
+(TClr.132
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.133
+	Color:	134
+	Outline:	1
+	OutlineColor:	135
+	OutlineWidth:	0.10000000000000
+	BgColor:	136
+)
+
+(TClr.134
+	Red:	0xea
+	Green:	0xeaff
+	Blue:	0xa3a1
+)
+
+(TClr.135
+)
+
+(TClr.136
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.137
+	Color:	138
+	Outline:	1
+	OutlineColor:	139
+	OutlineWidth:	0.10000000000000
+	BgColor:	140
+)
+
+(TClr.138
+	Red:	0xc2
+	Green:	0xc2ff
+	Blue:	0xc2f4
+)
+
+(TClr.139
+)
+
+(TClr.140
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.141
+	Color:	142
+	Outline:	1
+	OutlineColor:	143
+	OutlineWidth:	0.10000000000000
+	BgColor:	144
+)
+
+(TClr.142
+	Red:	0xeeff
+	Green:	0xacb6
+	Blue:	0xceeb
+)
+
+(TClr.143
+)
+
+(TClr.144
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.145
+	Color:	146
+	Outline:	1
+	OutlineColor:	147
+	OutlineWidth:	0.10000000000000
+	BgColor:	148
+)
+
+(TClr.146
+	Red:	0xaf4f
+	Green:	0xfeff
+	Blue:	0xdd5d
+)
+
+(TClr.147
+)
+
+(TClr.148
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.149
+	Color:	150
+	Outline:	1
+	OutlineColor:	151
+	OutlineWidth:	0.10000000000000
+	BgColor:	152
+)
+
+(TClr.150
+	Red:	0xd22c
+	Green:	0xfeff
+	Blue:	0xfefd
+)
+
+(TClr.151
+)
+
+(TClr.152
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.153
+	Color:	154
+	Outline:	1
+	OutlineColor:	155
+	OutlineWidth:	0.10000000000000
+	BgColor:	156
+)
+
+(TClr.154
+	Red:	0xaf4f
+	Green:	0xdd66
+	Blue:	0xfeff
+)
+
+(TClr.155
+)
+
+(TClr.156
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(BShSym.157
+	Color:	158
+	Outline:	1
+	OutlineColor:	159
+	OutlineWidth:	0.10000000000000
+	BgColor:	160
+)
+
+(TClr.158
+	Name:	"Transparent"
+)
+
+(TClr.159
+	Name:	"Transparent"
+)
+
+(TClr.160
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.161
+	IsText:	1
+	Label:	"ALAMEDA CO FC & WCD ZONE 7"
+	MinStr:	"ALAMEDA CO FC & WCD ZONE 7"
+	MaxStr:	"ALAMEDA CO FC & WCD ZONE 7"
+	Precision:	-3
+)
+
+(LClass.162
+	IsText:	1
+	Label:	"ALAMEDA COUNTY WATER DISTRICT"
+	MinStr:	"ALAMEDA COUNTY WATER DISTRICT"
+	MaxStr:	"ALAMEDA COUNTY WATER DISTRICT"
+	Precision:	-3
+)
+
+(LClass.163
+	IsText:	1
+	Label:	"ANTELOPE VALLEY-EAST KERN W.A."
+	MinStr:	"ANTELOPE VALLEY-EAST KERN W.A."
+	MaxStr:	"ANTELOPE VALLEY-EAST KERN W.A."
+	Precision:	-3
+)
+
+(LClass.164
+	IsText:	1
+	Label:	"BELRIDGE W.S.D."
+	MinStr:	"BELRIDGE W.S.D."
+	MaxStr:	"BELRIDGE W.S.D."
+	Precision:	-3
+)
+
+(LClass.165
+	IsText:	1
+	Label:	"BERRENDA MESA W.D."
+	MinStr:	"BERRENDA MESA W.D."
+	MaxStr:	"BERRENDA MESA W.D."
+	Precision:	-3
+)
+
+(LClass.166
+	IsText:	1
+	Label:	"BUENA VISTA W.S.D."
+	MinStr:	"BUENA VISTA W.S.D."
+	MaxStr:	"BUENA VISTA W.S.D."
+	Precision:	-3
+)
+
+(LClass.167
+	IsText:	1
+	Label:	"BUTTONWILLOW IMPROVEMENT DIST."
+	MinStr:	"BUTTONWILLOW IMPROVEMENT DIST."
+	MaxStr:	"BUTTONWILLOW IMPROVEMENT DIST."
+	Precision:	-3
+)
+
+(LClass.168
+	IsText:	1
+	Label:	"CAWELO W.D."
+	MinStr:	"CAWELO W.D."
+	MaxStr:	"CAWELO W.D."
+	Precision:	-3
+)
+
+(LClass.169
+	IsText:	1
+	Label:	"CITY OF YUBA CITY W.S.A."
+	MinStr:	"CITY OF YUBA CITY W.S.A."
+	MaxStr:	"CITY OF YUBA CITY W.S.A."
+	Precision:	-3
+)
+
+(LClass.170
+	IsText:	1
+	Label:	"COACHELLA VALLEY W.D."
+	MinStr:	"COACHELLA VALLEY W.D."
+	MaxStr:	"COACHELLA VALLEY W.D."
+	Precision:	-3
+)
+
+(LClass.171
+	IsText:	1
+	Label:	"CRESTLINE-LAKE ARROWHEAD W.A."
+	MinStr:	"CRESTLINE-LAKE ARROWHEAD W.A."
+	MaxStr:	"CRESTLINE-LAKE ARROWHEAD W.A."
+	Precision:	-3
+)
+
+(LClass.172
+	IsText:	1
+	Label:	"DESERT WATER AGENCY"
+	MinStr:	"DESERT WATER AGENCY"
+	MaxStr:	"DESERT WATER AGENCY"
+	Precision:	-3
+)
+
+(LClass.173
+	IsText:	1
+	Label:	"DEVILS DEN W.D."
+	MinStr:	"DEVILS DEN W.D."
+	MaxStr:	"DEVILS DEN W.D."
+	Precision:	-3
+)
+
+(LClass.174
+	IsText:	1
+	Label:	"DUDLEY RIDGE W.D."
+	MinStr:	"DUDLEY RIDGE W.D."
+	MaxStr:	"DUDLEY RIDGE W.D."
+	Precision:	-3
+)
+
+(LClass.175
+	IsText:	1
+	Label:	"EMPIRE WEST SIDE W.D."
+	MinStr:	"EMPIRE WEST SIDE W.D."
+	MaxStr:	"EMPIRE WEST SIDE W.D."
+	Precision:	-3
+)
+
+(LClass.176
+	IsText:	1
+	Label:	"HACIENDA W.D."
+	MinStr:	"HACIENDA W.D."
+	MaxStr:	"HACIENDA W.D."
+	Precision:	-3
+)
+
+(LClass.177
+	IsText:	1
+	Label:	"HENRY MILLER W.D."
+	MinStr:	"HENRY MILLER W.D."
+	MaxStr:	"HENRY MILLER W.D."
+	Precision:	-3
+)
+
+(LClass.178
+	IsText:	1
+	Label:	"KERN CO W.A. IMPROV.DIST. #4"
+	MinStr:	"KERN CO W.A. IMPROV.DIST. #4"
+	MaxStr:	"KERN CO W.A. IMPROV.DIST. #4"
+	Precision:	-3
+)
+
+(LClass.179
+	IsText:	1
+	Label:	"KERN DELTA W.D."
+	MinStr:	"KERN DELTA W.D."
+	MaxStr:	"KERN DELTA W.D."
+	Precision:	-3
+)
+
+(LClass.180
+	IsText:	1
+	Label:	"LITTLEROCK CREEK I.D."
+	MinStr:	"LITTLEROCK CREEK I.D."
+	MaxStr:	"LITTLEROCK CREEK I.D."
+	Precision:	-3
+)
+
+(LClass.181
+	IsText:	1
+	Label:	"LOST HILLS W.D."
+	MinStr:	"LOST HILLS W.D."
+	MaxStr:	"LOST HILLS W.D."
+	Precision:	-3
+)
+
+(LClass.182
+	IsText:	1
+	Label:	"METROPOLITAN WATER DISTRICT"
+	MinStr:	"METROPOLITAN WATER DISTRICT"
+	MaxStr:	"METROPOLITAN WATER DISTRICT"
+	Precision:	-3
+)
+
+(LClass.183
+	IsText:	1
+	Label:	"MOJAVE WA-DIV 2-IMP DIST M"
+	MinStr:	"MOJAVE WA-DIV 2-IMP DIST M"
+	MaxStr:	"MOJAVE WA-DIV 2-IMP DIST M"
+	Precision:	-3
+)
+
+(LClass.184
+	IsText:	1
+	Label:	"NAPA CO. F.C.W.C.D."
+	MinStr:	"NAPA CO. F.C.W.C.D."
+	MaxStr:	"NAPA CO. F.C.W.C.D."
+	Precision:	-3
+)
+
+(LClass.185
+	IsText:	1
+	Label:	"OAK FLAT W.D."
+	MinStr:	"OAK FLAT W.D."
+	MaxStr:	"OAK FLAT W.D."
+	Precision:	-3
+)
+
+(LClass.186
+	IsText:	1
+	Label:	"PALMDALE W.D."
+	MinStr:	"PALMDALE W.D."
+	MaxStr:	"PALMDALE W.D."
+	Precision:	-3
+)
+
+(LClass.187
+	IsText:	1
+	Label:	"POND POSO IMPROVEMENT DISTRICT"
+	MinStr:	"POND POSO IMPROVEMENT DISTRICT"
+	MaxStr:	"POND POSO IMPROVEMENT DISTRICT"
+	Precision:	-3
+)
+
+(LClass.188
+	IsText:	1
+	Label:	"ROSEDALE-RIO BRAVO W.S.D."
+	MinStr:	"ROSEDALE-RIO BRAVO W.S.D."
+	MaxStr:	"ROSEDALE-RIO BRAVO W.S.D."
+	Precision:	-3
+)
+
+(LClass.189
+	IsText:	1
+	Label:	"SAN BERNARDINO VALLEY M.W.D."
+	MinStr:	"SAN BERNARDINO VALLEY M.W.D."
+	MaxStr:	"SAN BERNARDINO VALLEY M.W.D."
+	Precision:	-3
+)
+
+(LClass.190
+	IsText:	1
+	Label:	"SAN GORGONIO PASS WATER AGENCY"
+	MinStr:	"SAN GORGONIO PASS WATER AGENCY"
+	MaxStr:	"SAN GORGONIO PASS WATER AGENCY"
+	Precision:	-3
+)
+
+(LClass.191
+	IsText:	1
+	Label:	"SAN LUIS OBISPO COUNTY"
+	MinStr:	"SAN LUIS OBISPO COUNTY"
+	MaxStr:	"SAN LUIS OBISPO COUNTY"
+	Precision:	-3
+)
+
+(LClass.192
+	IsText:	1
+	Label:	"SANTA CLARA VALLEY W.D."
+	MinStr:	"SANTA CLARA VALLEY W.D."
+	MaxStr:	"SANTA CLARA VALLEY W.D."
+	Precision:	-3
+)
+
+(LClass.193
+	IsText:	1
+	Label:	"SEMITROPIC W.S.D."
+	MinStr:	"SEMITROPIC W.S.D."
+	MaxStr:	"SEMITROPIC W.S.D."
+	Precision:	-3
+)
+
+(LClass.194
+	IsText:	1
+	Label:	"TEHACHAPI-CUMMINGS CO. W.D."
+	MinStr:	"TEHACHAPI-CUMMINGS CO. W.D."
+	MaxStr:	"TEHACHAPI-CUMMINGS CO. W.D."
+	Precision:	-3
+)
+
+(LClass.195
+	IsText:	1
+	Label:	"TEJON-CASTAC W.D."
+	MinStr:	"TEJON-CASTAC W.D."
+	MaxStr:	"TEJON-CASTAC W.D."
+	Precision:	-3
+)
+
+(LClass.196
+	IsText:	1
+	Label:	"TULARE LAKE BASIN W.S.D."
+	MinStr:	"TULARE LAKE BASIN W.S.D."
+	MaxStr:	"TULARE LAKE BASIN W.S.D."
+	Precision:	-3
+)
+
+(LClass.197
+	IsText:	1
+	Label:	"WEST KERN W.D."
+	MinStr:	"WEST KERN W.D."
+	MaxStr:	"WEST KERN W.D."
+	Precision:	-3
+)
+
+(LClass.198
+	IsText:	1
+	Label:	"WHEELER RIDGE-MARICOPA W.S.D."
+	MinStr:	"WHEELER RIDGE-MARICOPA W.S.D."
+	MaxStr:	"WHEELER RIDGE-MARICOPA W.S.D."
+	Precision:	-3
+)
+
+(LClass.199
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(BShSym.200
+	Color:	201
+	Outline:	1
+	OutlineColor:	202
+	OutlineWidth:	0.10000000000000
+	BgColor:	203
+)
+
+(TClr.201
+	Name:	"Transparent"
+)
+
+(TClr.202
+	Name:	"Transparent"
+)
+
+(TClr.203
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(NameDict.204
+)
+
+(NameDict.205
+)
+

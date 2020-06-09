@@ -1,0 +1,6 @@
+Downloaded from:
+http://www.waterboards.ca.gov/waterrights/water_issues/programs/hearings/byron_bethany/docs/exhibits/pt/wr70.csv
+with background information at:
+https://www.waterboards.ca.gov/waterrights/water_issues/programs/hearings/byron_bethany/exhibits.html
+
+A few rows have extra commas that result in column mis-alignment. I corrected these errors and saved a new version as wr70_corrected.csv.

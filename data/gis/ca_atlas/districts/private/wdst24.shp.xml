@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Bureau of Reclamation in coordination with the California Department of  Water Resources</origin>
+				<pubdate>March 2003</pubdate>
+				<title>wdst24 - State Water Districts for California 1:24,000-scale</title>
+				<edition>1.1 - CLASSIFICATION = General</edition>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<othercit>Assigned edition numbers started in 2000. Previous versions of this database did not have an edition number assigned. Do not use previous editions of this database. Editions will be archived and made available upon request.</othercit>
+				<onlink Sync="TRUE"></onlink>
+				<ftname Sync="TRUE">wdst24</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>State Water Project District boundaries are areas where state contracts provide water to the district in California. This database is designed as a regions polygon database and is updated when sufficient number of changes have occured to warrant an update. Updates are determined by the needs of the local office. Separate databases are used for maintenance purposes. Boundaries are continually being updated as changes are identified by the Water Districts. The boundaries are not current for all Water Districts found in the database at the same time due to the update methods employed. There may be conflicts in the boundaries between districts due to the time of update and review process associated with each Water District. Other problems may be associated with Water District name changes that have not been updated and possibly new Water Districts not being included due to lack of information. This database represents the most current and accurate understanding of the boundary location and current name of the Water Districts.</abstract>
+			<purpose>
+The State Water Project District boundaries database is cooperatively shared between the U.S. Bureau of Reclamation (USBR), Mid-Pacific regional office (MP), MPGIS Service Center and the California Department of Water Resources (DWR). The USBR maintains this database with the voluntary assistance of the State Water Districts. This database allows the USBR and DWR to display and analyze this information.
+
+This database is not intended to be used as a land survey or representation of land for conveyance or tax purposes. The database is available to all users that may require this information.
+</purpose>
+			<supplinf>Processing methodology is described under the Data Quality section.</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>March 2003</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>Current to the listed Calendar Date provided. See Data Quality for process steps.</current>
+		</timeperd>
+		<status>
+			<progress>Continually being updated. Only current to the date specified.</progress>
+			<update>Updated as determined by MPGIS Service Center.</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-122.645206</westbc>
+				<eastbc>-118.311666</eastbc>
+				<northbc>41.988660</northbc>
+				<southbc>34.297346</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">551439.562500</leftbc><rightbc Sync="TRUE">1185313.750000</rightbc><bottombc Sync="TRUE">3614698.750000</bottombc><topbc Sync="TRUE">4336424.000000</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>Columbia Encyclopedia, Sixth Edition, 2001</themekt>
+				<themekey>Hydrology</themekey>
+				<themekey>Water</themekey>
+				<themekey>District</themekey>
+				<themekey>State Water District</themekey>
+			</theme>
+			<place>
+				<placekt>Columbia Encyclopedia, Sixth Edition, 2001</placekt>
+				<placekey>California</placekey>
+			</place>
+			<temporal>
+				<tempkt>NA</tempkt>
+				<tempkey>March 2003</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>None.</accconst>
+		<useconst>If used, please indicate that the database source was the U.S. Bureau of Reclamation, MPGIS Service Center in coordination with the California Department of Water Resources.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Lorri Peltz-Lewis</cntper>
+					<cntorg>U.S. Bureau of Reclamation, MPGIS Service Center</cntorg>
+				</cntperp>
+				<cntpos>Geospatial Data Administrator</cntpos>
+				<cntvoice>(916) 978-5271</cntvoice>
+				<cntfax>(916) 978-5290</cntfax>
+				<cntemail>lpeltzlewis@mp.usbr.gov</cntemail>
+				<hours>6:30 AM - 3:00 PM M-F</hours>
+				<cntinst>Email your request to the above email address</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>wdst24.jpg</browsen>
+			<browset>JPEG</browset>
+		</browse>
+		<datacred>California Department of Water Resources</datacred>
+		<secinfo>
+			<secsys>US Bureau of Reclamation Security Classification</secsys>
+			<secclass>None</secclass>
+			<sechandl>None - General use, no restrictions on handling or use.
+
+Official Use Only/SENSITIVE - Information and data used by Reclamation employees, partners, and customers for daily operational and administrative purposes.  Its unauthorized, inadvertent, or deliberate disclosure, alteration, use, or destruction could affect Reclamation's ability to perform agency functions (including safeguarding the public), impede daily business activities, and/or affect employee productivity.
+
+Official Use Only/RESTRICTED - Information and data intended for internal use only by Reclamation personnel, which may include information from outside sources, that requires the highest level of protection based on potential for harm caused by its unauthorized,  inadvertent, or deliberate disclosure, alteration, or destruction.  Such improper use, modification, or disclosure would significantly and adversely affect Reclamation's employees, partners, and customers as well as significantly impact the agency's ability to accomplish its mission, safeguard the public, and protect the legal and financial rights of the Government.</sechandl>
+		</secinfo>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI ArcCatalog 8.2.0.700</native>
+		<crossref>
+			<citeinfo>
+				<title>None</title>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">ArcInfo Coverage</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>This data was provided by California Department of Water Resources or by individual Water Districts. Digital databases created within the USBR MPGIS Service Center were reviewed using existing quality standards. Maps were provided to the Water Districts and were reviewed by knowledgable staff at Water District. Corrections received were entered by USBR staff and follow current quality control standards within the office.</attraccr>
+			<qattracc>
+				<attraccv>Good</attraccv>
+				<attracce>Digital databases created within the USBR was reviewed using existing quality standards.</attracce>
+			</qattracc>
+		</attracc>
+		<logic>
+Data meets accuracy and quality standards within USBR MPGIS Service Center. Errors do exist.There may be conflicts in the boundaries between districts due to the update times and review process associated with each boundary. Other problems may be associated with Water District name changes that have not been updated and possibly new Water Districts not being included due to lack of information.
+
+Logical Consistency was established by utilizing the 1:24,000-scale USGS topographic map quadrangles as the maximum base map scale. This database is not intended to be used as a land survey or representation of land for conveyance or tax purposes. Further details are discussed in the Process Step portion of this metadata.
+
+All Water Districts were provided boundary maps to review and comment on.
+</logic>
+		<complete>This database represents the most current and accurate understanding of the Water District boundary location and current name of the Water Districts. Edition numbers were added starting with the July 2000 version as edition 1. The edition number associated with the database indicates current edition. Any databases not having a specified edition number should not be used. Please request a current copy of this database from the contact provided.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>No estimate of uncertainty in the placement of the polygon boundaries has been made. Source scale of separate boundaries varies between districts. Separate boundaries are compiled and registered to 1:24,000-scale USGS topographic maps.  No estimate can be made on the positional accuracy of the boundaries or on the currentness of the boundary position as depicted in the GIS databases.</horizpar>
+				<qhorizpa>
+					<horizpav>20 meters</horizpav>
+					<horizpae>Error in digital capture of boundaries is estimated as 12 to 20 meters based on use of the USGS 1:24,000-scale quadrangles.</horizpae>
+				</qhorizpa>
+			</horizpa>
+			<vertacc>
+				<vertaccr>NA</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srcscale>1:24,0000-scale maximum, varies with Water District</srcscale>
+				<typesrc>USGS Topographic Maps, more accurate maps have been used if appropriate</typesrc>
+				<srccitea>Varies</srccitea>
+				<srccontr>Varies</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+The USBR provides maps for the various Water Districts to review. Boundary corrections are marked on the map provided or on other source material by knowledgable staff in the Water District. Boundary corrections are delineated at maximum of 1:24,000-scale using USGS topological maps for reference. Data provided at better resolution are maintained at the scale provided. Boundary changes are digitized using a Calcomp 9000 digitizer and Arc/Info.
+
+Not all Water Districts responded to the USBR MP request for review. A list of these are provided in the Data Quality - Logical Consistency report.
+</procdesc>
+				<procdate>Varies</procdate>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\LPELTZ~1\LOCALS~1\Temp\xml8.tmp</srcused><date Sync="TRUE">20030313</date><time Sync="TRUE">13501700</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE"></srcused><date Sync="TRUE">20040109</date><time Sync="TRUE">07460500</time></procstep></lineage>
+		<cloud>NA</cloud>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="arc">
+				<sdtstype Sync="TRUE">Complete chain</sdtstype>
+				<ptvctcnt Sync="TRUE">1301</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="label">
+				<sdtstype Sync="TRUE">Label point</sdtstype>
+				<ptvctcnt Sync="TRUE">635</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="polygon">
+				<sdtstype Sync="TRUE">GT-polygon composed of chains</sdtstype>
+				<ptvctcnt Sync="TRUE">635</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="tic">
+				<sdtstype Sync="TRUE">Point</sdtstype>
+				<ptvctcnt Sync="TRUE">23</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="annotation.district">
+				<sdtstype Sync="TRUE">Label point</sdtstype>
+				<ptvctcnt Sync="TRUE">40</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="annotation.mpgis">
+				<sdtstype Sync="TRUE">Label point</sdtstype>
+				<ptvctcnt Sync="TRUE">40</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm Name="region.district">
+				<sdtstype Sync="TRUE">Composite object</sdtstype>
+				<ptvctcnt Sync="TRUE">38</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>145</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>160</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>8</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>22</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>27</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>46</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>5</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>4</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>7</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>4</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>3</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>3</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>23</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>21</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>22</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>3</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>6</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>7</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>26</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>14</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="arc"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Arc</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">1301</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="label"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Label</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">635</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="polygon"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">TRUE</esritopo><efeacnt Sync="TRUE">635</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="tic"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Tic</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">23</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="annotation.district"><efeatyp Sync="TRUE"></efeatyp><efeageom Sync="TRUE">Annotation</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">40</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="annotation.mpgis"><efeatyp Sync="TRUE"></efeatyp><efeageom Sync="TRUE">Annotation</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">40</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="region.district"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Region</efeageom><esritopo Sync="TRUE">TRUE</esritopo><efeacnt Sync="TRUE">38</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.002048</absres>
+						<ordres>0.002048</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+				<gridsys><gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn><utm><utmzone Sync="TRUE">10</utmzone><transmer><sfctrmer Sync="TRUE">0.999600</sfctrmer><longcm Sync="TRUE">-123.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">500000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></transmer></utm></gridsys></planar>
+			<geodetic>
+				<horizdn>D_Clarke_1866</horizdn>
+				<ellips>Clarke 1866</ellips>
+				<semiaxis>6378206.400000</semiaxis>
+				<denflat>294.978698</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1927</geogcsn><projcsn Sync="TRUE">NAD_1927_UTM_Zone_10N</projcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="wdst24.aat">
+			<enttyp>
+				<enttypl Sync="TRUE">wdst24.aat</enttypl>
+				<enttypd>Line attributes</enttypd>
+				<enttypds>Map</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">1301</enttypc></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">FNODE#</attrlabl>
+				<attrdef Sync="TRUE">Internal node number for the beginning of an arc (from-node).</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TNODE#</attrlabl>
+				<attrdef Sync="TRUE">Internal node number for the end of an arc (to-node).</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">LPOLY#</attrlabl>
+				<attrdef Sync="TRUE">Internal node number for the left polygon.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">RPOLY#</attrlabl>
+				<attrdef Sync="TRUE">Internal node number for the right polygon.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">LENGTH</attrlabl>
+				<attrdef Sync="TRUE">Length of feature in internal units.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WDST24#</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WDST24-ID</attrlabl>
+				<attrdef Sync="TRUE">User-defined feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl>$ID</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>$FROMNODE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>$TONODE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>$LEFTPOLYGON</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>$RIGHTPOLYGON</attrlabl>
+			</attr>
+		</detailed>
+		<detailed Name="wdst24.pat">
+			<enttyp>
+				<enttypl Sync="TRUE">wdst24.pat</enttypl>
+				<enttypd>Polygon attributes</enttypd>
+				<enttypds>Map</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">635</enttypc></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">AREA</attrlabl>
+				<attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERIMETER</attrlabl>
+				<attrdef Sync="TRUE">Perimeter of feature in internal units.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WDST24#</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WDST24-ID</attrlabl>
+				<attrdef Sync="TRUE">User-defined feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WDNUM</attrlabl>
+				<attrdef>Unit value indicates polygon inside Water District (1) or outside Water District (0).</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">2</attwidth><atoutwid Sync="TRUE">2</atoutwid><attrtype Sync="TRUE">Integer</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WDNAME</attrlabl>
+				<attrdef>Water District Name</attrdef>
+				<attrdefs>MPGIS Service Center, reviewed by Water District</attrdefs>
+				<attwidth Sync="TRUE">30</attwidth><atoutwid Sync="TRUE">30</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr>
+		</detailed>
+		<detailed Name="wdst24.tatdistrict">
+			<enttyp>
+				<enttypl Sync="TRUE">wdst24.tatdistrict</enttypl>
+				<enttypd>District annotation set at 1524 meters. Allows for plotting at specific scale.</enttypd>
+				<enttypds>Map</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">40</enttypc></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DISTRICT#</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DISTRICT-ID</attrlabl>
+				<attrdef Sync="TRUE">User-defined feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">X</attrlabl>
+				<attrdef>X-Coordinate</attrdef>
+				<attrdefs>ArcInfo</attrdefs>
+				<attrvai></attrvai>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Y</attrlabl>
+				<attrdef>Y-Coordinate</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">OFFSETX</attrlabl>
+				<attrdef>X Offset</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">OFFSETY</attrlabl>
+				<attrdef>Y Offset</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">HEIGHT</attrlabl>
+				<attrdef>Annotation height 1524 meters</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SYMBOL</attrlabl>
+				<attrdef>Annotation symbol</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">LEVEL</attrlabl>
+				<attrdef>Annotation level</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TEXT</attrlabl>
+				<attrdef>Annotation text</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">320</attwidth><atoutwid Sync="TRUE">320</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WDNAME</attrlabl>
+				<attrdef>Water District Name</attrdef>
+				<attrdefs>MPGIS Service Center, reviewed by Water District</attrdefs>
+				<attwidth Sync="TRUE">30</attwidth><atoutwid Sync="TRUE">30</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr>
+		</detailed>
+		<detailed Name="wdst24.tatmpgis">
+			<enttyp>
+				<enttypl Sync="TRUE">wdst24.tatmpgis</enttypl>
+				<enttypd>Copy of District Annotation. MPGIS annotation set at 0 meters. Allows for plotting at any scale.</enttypd>
+				<enttypds>Map</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">40</enttypc></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">MPGIS#</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">MPGIS-ID</attrlabl>
+				<attrdef Sync="TRUE">User-defined feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">X</attrlabl>
+				<attrdef>X-Coordinate</attrdef>
+				<attrdefs>ArcInfo</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Y</attrlabl>
+				<attrdef>Y-Coordinate</attrdef>
+				<attrdefs>ArcInfo</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">OFFSETX</attrlabl>
+				<attrdef>X-Offset</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">OFFSETY</attrlabl>
+				<attrdef>Y-Offset</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">HEIGHT</attrlabl>
+				<attrdef>Annotation height 0 meters</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SYMBOL</attrlabl>
+				<attrdef>Annotation symbol</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">LEVEL</attrlabl>
+				<attrdef>Annotation level</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">TEXT</attrlabl>
+				<attrdef>Annotation text</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">320</attwidth><atoutwid Sync="TRUE">320</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WDNAME</attrlabl>
+				<attrdef>Water District Name</attrdef>
+				<attrdefs>MPGIS Service Center, reviewed by Water District</attrdefs>
+				<attwidth Sync="TRUE">30</attwidth><atoutwid Sync="TRUE">30</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr>
+		</detailed>
+		<detailed Name="wdst24.patdistrict">
+			<enttyp>
+				<enttypl Sync="TRUE">wdst24.patdistrict</enttypl>
+				<enttypd>District regions</enttypd>
+				<enttypds>All District databases</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">38</enttypc></enttyp>
+			<attr>
+				<attrlabl Sync="TRUE">FID</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">Shape</attrlabl>
+				<attrdef Sync="TRUE">Feature geometry.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl Sync="TRUE">AREA</attrlabl>
+				<attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">PERIMETER</attrlabl>
+				<attrdef Sync="TRUE">Perimeter of feature in internal units.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DISTRICT#</attrlabl>
+				<attrdef Sync="TRUE">Internal feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attrdomv>
+					<udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">DISTRICT-ID</attrlabl>
+				<attrdef Sync="TRUE">User-defined feature number.</attrdef>
+				<attrdefs Sync="TRUE">ESRI</attrdefs>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">WDNAME</attrlabl>
+				<attrdef>Water District Name</attrdef>
+				<attrdefs>MPGIS Service Center, reviewed by Water District</attrdefs>
+				<attwidth Sync="TRUE">30</attwidth><atoutwid Sync="TRUE">30</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">IDCON</attrlabl>
+				<attrdef>Reference number</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">6</attwidth><atoutwid Sync="TRUE">6</atoutwid><attrtype Sync="TRUE">Integer</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">SHADESYM</attrlabl>
+				<attrdef>Shade symbol color</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">3</attwidth><atoutwid Sync="TRUE">3</atoutwid><attrtype Sync="TRUE">Integer</attrtype></attr>
+			<attr>
+				<attrlabl Sync="TRUE">PNAME</attrlabl>
+				<attrdef>Path to database</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attwidth Sync="TRUE">32</attwidth><atoutwid Sync="TRUE">32</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr>
+		</detailed>
+		<overview></overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Bureau of Reclamation, Mid-Pacific Region, MPGIS Service Center</cntorg>
+					<cntper>Charles B. Johnson</cntper>
+				</cntorgp>
+				<cntpos>Regional GIS Program Administrator</cntpos>
+				<cntvoice>916-978-5266</cntvoice>
+				<cntfax>916-978-5290</cntfax>
+				<cntemail>cbjohnson@mp.usbr.gov</cntemail>
+				<hours>8:00 AM - 5:00 PM</hours>
+				<cntinst>Call or email for method of data transfer</cntinst>
+			</cntinfo>
+		</distrib>
+		<resdesc>State Water Districts for California</resdesc>
+		<distliab>
+The U.S. Bureau of Reclamation and California Department of Water Resources assumes no liability in the application and use of this data. This data was developed for general planning purposes, it is not intended to be used as a land survey or representation of land for conveyance or tax purposes. It was developed from the source documents following standard procedures of reviewing the digital version against the information contained in the source documents. Use of this data at scales which are more detailed than the source scale is not recommended.
+
+This data has not been verified in the field by U.S. Bureau of Reclamation personnel. Should problems be found in this database please contact the Distributor.
+
+NOT FOR DISTRIBUTION WITHOUT NOTICE TO USBR
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ARCE</formname>
+					<formspec>ArcInfo export format</formspec>
+					<filedec>no compression applied</filedec>
+					<transize Sync="TRUE">0.631</transize>
+					<dssize Sync="TRUE">0.631</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>\\PELTZ\c\gis\hydrography\wdfed24v10</networkr>
+							</networka>
+						</computer>
+						<accinstr>Local area network</accinstr>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None.</fees>
+			<ordering>Call or email Distributor</ordering>
+			<turnarnd>1-2 weeks</turnarnd>
+		</stdorder>
+		<custom>Call or email Distributor</custom>
+		<techpreq>None.</techpreq>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20030314</metd>
+		<metrd>February 2001</metrd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Lorri Peltz-Lewis</cntper>
+					<cntorg>U.S. Bureau of Reclamation, Mid-Pacific Region</cntorg>
+				</cntperp>
+				<cntpos>Geospatial Data Administrator</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>
+2800 Cottage Way
+MP400
+</address>
+					<city>Sacramento</city>
+					<state>CA</state>
+					<postal>95825</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>916-978-5271</cntvoice>
+				<cntfax>926-978-5290</cntfax>
+				<cntemail>lpeltzlewis@mp.usbr.gov</cntemail>
+				<hours>8:00 AM - 5:00 PM</hours>
+				<cntinst>Call or email</cntinst>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metac>None</metac>
+		<metuc>If used, please indicate that the data source was the U.S. Bureau of Reclamation, Mid-Pacific Region, MPGIS Service Center in coordination with the California Department of Water Resources.</metuc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20040109</CreaDate><CreaTime>07460500</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20030314</SyncDate><SyncTime>07424600</SyncTime><ModDate>20030314</ModDate><ModTime>07424600</ModTime><MetaID>{DCA3DCA7-F25E-415E-BA5A-A25A5381096F}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI ArcCatalog 8.2.0.700</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">wdst24</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><geoBox esriExtentType="native"><westBL Sync="TRUE">551439.5625</westBL><eastBL Sync="TRUE">1185313.75</eastBL><northBL Sync="TRUE">4336424</northBL><southBL Sync="TRUE">3614698.75</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-122.451394</westBL><eastBL Sync="TRUE">-115.101117</eastBL><northBL Sync="TRUE">39.177403</northBL><southBL Sync="TRUE">32.460062</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.631</transSize></distorTran><distorFormat><formatName Sync="TRUE">ArcInfo Coverage</formatName></distorFormat></distributor></distInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="004"></TopoLevCd></topLvl><geometObjs Name="arc"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="003"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">1301</geoObjCnt></geometObjs><geometObjs Name="label"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">635</geoObjCnt></geometObjs><geometObjs Name="polygon"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="002"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">635</geoObjCnt></geometObjs><geometObjs Name="tic"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">23</geoObjCnt></geometObjs><geometObjs Name="annotation.district"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">40</geoObjCnt></geometObjs><geometObjs Name="annotation.mpgis"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">40</geoObjCnt></geometObjs><geometObjs Name="region.district"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">38</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20030314</mdDateSt><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1927_UTM_Zone_10N</identCode></refSysID></RefSystem></refSysInfo></metadata>

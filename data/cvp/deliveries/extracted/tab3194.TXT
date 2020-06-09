@@ -1,0 +1,48 @@
+                                                                                                   TABLE 31
+ 
+                      U.S. DEPARTMENT OF THE INTERIOR - BUREAU OF RECLAMATION
+ 
+                                              FRIANT-KERN CANAL
+                                                   1994
+MONTHLY DELIVERIES IN AF
+ 
+WATER USER                JAN    FEB    MAR    APR    MAY    JUN    JUL    AUG    SEP    OCT    NOV    DEC   TOTAL
+ 
+ALPAUGH I.D.               0      0      0      0      0    276   2139   1555      0      0      0      0    3970
+ARVIN-EDISON W.S.D.     8227      0   1448      0      0      0      0   7725   7315   1286    109      0   26110
+ATWELL ISLAND W.D.         0      0      0      0      0    200   1550    801      0      0      0      0    2551
+DELANO-EARLIMART I.D.    619   2892   7577  10938   8419  17284  18487  11401   4946   2184    693      0   85440
+EXETER I.D.               19      4     53    356    535   2336   1765   1974   1586    867    199     40    9734
+FRESNO, CITY OF            0      0      1     63    131  23223  13120    375    119    109     12      0   37153
+FRESNO, CO. OF (S.A. 3     6      0     20     29     45     76     85     70     40     26      6      0     403
+FRESNO I.D.                0    640      0      0      0   1394      0      0   9262      0      0      0   11296
+GARFIELD W.D.              0      0    289    442    364    689    717    450    395    247     10      0    3603
+HILLS VALLEY I.D.         11      0      5    160    285    706    870    799    589    191     27      0    3643
+INTERNATIONAL W.D.        61     66     66      0     91    216    325    114    288    214      1      0    1442
+IVANHOE I.D.               0      0      0     83    219    390    527   1253   1801   1089    743     55    6160
+KERN-TULARE W.D.         370      0    426     82   1047   3315   3939   4774   3291   1107    551    362   19264
+LEWIS CREEK W.D.           0      0      0    159    174    383    406    153      0      0      0      0    1275
+LINDMORE I.D.              0      0      0    588   2189   4677   5722   5656   4058   1977    513      0   25380
+LINDSAY, CITY OF         117    108    147    164    181    187    240    241    199    145    116    113    1958
+LINDSAY-STRATHMORE ID    139    420    284   2256   2082   3469   7962   4546   3782   1831    598    101   27470
+LOWER TULE RIVER I.D.      0      0      0    269    162  20319  21193  12526      0      0      0      0   54469
+ORANGE COVE, CITY OF      66     59     76     88    102    140    150    142    114     84     65     63    1149
+ORANGE COVE I.D.           0      0     29   1511   2317   5198   6460   5860   4582   1753    351      0   28061
+PIXLEY I.D.                0      0      0      0      0   1216  11378      0      0      0      0      0   12594
+PORTERVILLE I.D.           0      0    271   1207   1335   2346   3205   2875   1273      0      0      0   12512
+RAG GULCH W.D.           259      0    476   1371    353   2079   2377   2398   1621    339    367      0   11640
+SAUCELITO I.D.            40     84    131   1301   1984   1617   4942   4291   1816    242    163      0   16611
+SHAFTER-WASCO I.D.      1250   7718   5621   3791   3808   7378   7074   3504    772    970    135    119   42140
+SO. SAN JOAQUIN M.U.D.   756   4455   6895   6901   6652  13797  17550  12411   5849   3073    340    277   78956
+SMALLWOOD VINEYARDS        0      0     11    120     21    144    110     69     52     22      0      0     549
+STONE CORRAL I.D.          0      0      4    326    506   1336   1885   1898   1206    264     40      0    7465
+STRATHMORE PUD            30     32     44     50     58     81     88     81     60     40     30     31     625
+STYRO TEK, INC.            0      0      0      1      0      1      0      1      0      0      1      0       4
+TEA POT DOME W.D.         42      1     45    385    586    968   1266   1704    913    382     57     17    6366
+TERRA BELLA I.D.          59     32    130   1177   1760   3095   3753   3942   2540    850    267     53   17658
+TRI-VALLEY W.D.            0      0      0      0      6     81    201    289    209     30      4      0     820
+TULARE ID                  0      0      0      0      0   8504   8258  10969      0      0      0      0   27731
+ 
+     TOTAL             12071  16511  24049  33818  35412 127121 147744 104847  58678  19322   5398   1231  586202
+ 
+*  Data supplied by Fresno Field Division, Contracts Administration Division

@@ -1,0 +1,55 @@
+                                                                                                            Table 35
+ 
+                        UNITED STATES DEPARTMENT OF THE INTERIOR - BUREAU OF RECLAMATION
+ 
+                                      SAN LUIS AND CROSS VALLEY CANALS
+ 
+                                                    1996
+MONTHLY DELIVERIES IN AF
+ 
+       WATER USERS          JAN    FEB    MAR    APR    MAY    JUN    JUL    AUG    SEP    OCT    NOV    DEC   TOTAL
+ 
+SAN LUIS CANAL
+ 
+  CITY OF AVENAL           145    126    143    180    236    249    259    284    202    210    154    145    2333
+  BROADVIEW W.D.             0      1      1      2      2      3      3      3      0      2      1    232     250
+  CITY OF COALINGA         193    179    195    300    412    491    607    612    470    419    211      1    4090
+  CITY DOS PALOS            63     54     70     99    132    154    174    169    135    108     60    232    1450
+  CITY OF HURON             43     44     68     83    102     99    119    111     98     89     68     58     982
+  PACHECO W.D.             786   2863    508    961    867   1276      0   2201     12    126      8     57    9665
+  PACHECO (non project C     0      0      0      0      0   1507      0      0      0      0      0      1    1508
+  PANOCHE W.D.            4734   3217   1351   3845   6734  14911  16863  11373   1199    543    696   2587   68053
+  SAN LUIS W.D.           3733   5521   3396   5018   5824  12711  16254  12259   1775   1313    146    498   68448
+  WESTLANDS WD(Federal) 120462  78662  46537  73737 147635 159193 217148 167111  30592  25311  24635  33539 1124562
+Phase I  - Chargeable        9      6     10      8      2      0      0      0      1     15     11     10      72
+Phase I - Non-chargeable     0      0      0      0      1      5      5      5     15      5      5      3      44
+State of Calif - Lat 4     127      0      0      0      0      0      0      0      0      0      0      0     127
+ 
+  TOTAL                 130295  90673  52279  84233 161947 190599 251432 194128  34499  28141  25841  37363 1281584
+ 
+O'NEILL FOREBAY DELIVERIES
+  O'NEILL FORE. WILDLIFE    30      6    112    102    102     99     97    230    165    163    104     32    1242
+  SAN LUIS W.D.  AG       1032   1080    765   1817   1433   3536   4856   4634    993    513    131     17   20807
+                 M&I        22     21     25     33     39     46     55     48     43     37     25     31     425
+  VA CEMETARY                1      1      0      3      4      4      5      3      4      3      1      1      30
+ 
+  TOTAL                   1085   1108    902   1955   1578   3685   5013   4915   1205    716    261     81   22504
+ 
+CROSS VALLEY CANAL
+  ARVIN-EDISON W.S.D.        0      0      0      0      0      0      0      0      0      0      0      0       0
+  KERN-TULARE                0      0      0      0      0      0      0      0      0      0      0      0       0
+  PIXLEY ID                  0      0      0      0      0      0      0      0      0      0      0      0       0
+  RAG GULCH                  0      0      0      0      0      0      0      0      0      0      0      0       0
+ 
+  TOTAL                      0      0      0      0      0      0      0      0      0      0      0      0       0
+ 
+SAN FELIPE DIVISION
+  SAN BENITO              1427   1029     97    967   1971   2607   3656   4944   4735   3591   1567    120   26711
+  SANTA CLARA             8373   7400   5320   4354   8219   5180   6687  12921  13988   8645  10561   9135  100783
+ 
+TOTAL                     9800   8429   5417   5321  10190   7787  10343  17865  18723  12236  12128   9255  127494
+ 
+NOTE:  WESTLANDS TOTAL FOR DECEMBER IS PRELIMINARY.  NO REPORT FROM WESTLANDS
+ 
+* Data supplied by Fresno Field Division, Contracts Administration Division for San Luis Canal and Cross Valley Cana
+  Tracy Field Division, Water Division for O'Neill Forebay.

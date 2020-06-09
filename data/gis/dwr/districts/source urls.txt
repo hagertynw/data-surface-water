@@ -1,0 +1,4 @@
+https://gis.water.ca.gov/arcgis/rest/services/Public/BBMRS/MapServer/4
+https://gis.water.ca.gov/arcgis/rest/services/Public/Boundaries_Map/MapServer/32
+https://gis.water.ca.gov/arcgis/rest/services/Boundaries/WaterDistricts/FeatureServer
+https://gis.water.ca.gov/arcgis/rest/services/Boundaries/WaterDistricts/MapServer

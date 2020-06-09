@@ -1,0 +1,917 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Bureau of Reclamation in coordination with the California Department of  Water Resources</origin>
+				<pubdate>October 2003</pubdate>
+				<title>wdpr24 - Private Water Districts for California 1:24,000-scale</title>
+				<edition>1.6 - CLASSIFICATION = General</edition>
+				<geoform>vector digital data</geoform>
+				<othercit>Assigned edition numbers started in 2000. Previous versions of this database did not have an edition number assigned. Do not use previous editions of this database. Editions will be archived and made available upon request.</othercit>
+				<onlink>\\ibr2mpgismdb\v_gis\work\bound_new\wdpr24</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>Private Water District boundaries are areas where private contracts provide water to the district in California. This database is designed as a regions polygon database and is updated when sufficient number of changes have occured to warrant an update. Updates are determined by the needs of the local office. Separate databases are used for maintenance purposes. Boundaries are continually being updated as changes are identified by the Water Districts. The boundaries are not current for all Water Districts found in the database at the same time due to the update methods employed. There may be conflicts in the boundaries between districts due to the time of update and review process associated with each Water District. Other problems may be associated with Water District name changes that have not been updated and possibly new Water Districts not being included due to lack of information. This database represents the most current and accurate understanding of the boundary location and current name of the Water Districts.</abstract>
+			<purpose>
+The Private Water District boundaries database is cooperatively shared between the U.S. Bureau of Reclamation (USBR), Mid-Pacific regional office (MP), MPGIS Service Center and the California Department of Water Resources (DWR). The USBR maintains this database with the voluntary assistance of the Private Water Districts. This database allows the USBR and DWR to display and analyze this information.
+
+This database is not intended to be used as a land survey or representation of land for conveyance or tax purposes. The database is available to all users that may require this information.
+</purpose>
+			<supplinf>Processing methodology is described under the Data Quality section.</supplinf>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>October 2003</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>Current to the listed Calendar Date provided. See Data Quality for process steps.</current>
+		</timeperd>
+		<status>
+			<progress>Continually being updated. Only current to the date specified.</progress>
+			<update>Updated as determined by MPGIS Service Center.</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-124.259324</westbc>
+				<eastbc>-113.546909</eastbc>
+				<northbc>42.008468</northbc>
+				<southbc>32.392622</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>Columbia Encyclopedia, Sixth Edition, 2001</themekt>
+				<themekey>Hydrology</themekey>
+				<themekey>Water</themekey>
+				<themekey>District</themekey>
+				<themekey>Private Water District</themekey>
+			</theme>
+			<place>
+				<placekt>Columbia Encyclopedia, Sixth Edition, 2001</placekt>
+				<placekey>California</placekey>
+			</place>
+			<temporal>
+				<tempkt>NA</tempkt>
+				<tempkey>October 2003</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>None.</accconst>
+		<useconst>If used, please indicate that the database source was the U.S. Bureau of Reclamation, MPGIS Service Center in coordination with the California Department of Water Resources.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Lorri Peltz-Lewis</cntper>
+					<cntorg>U.S. Bureau of Reclamation, MPGIS Service Center</cntorg>
+				</cntperp>
+				<cntpos>Geospatial Data Administrator</cntpos>
+				<cntvoice>(916) 978-5271</cntvoice>
+				<cntfax>(916) 978-5290</cntfax>
+				<cntemail>lpeltzlewis@mp.usbr.gov</cntemail>
+				<hours>6:30 AM - 3:00 PM M-F</hours>
+				<cntinst>Email your request to the above email address</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>wdpr24.jpg</browsen>
+			<browset>JPEG</browset>
+		</browse>
+		<datacred>California Department of Water Resources</datacred>
+		<secinfo>
+			<secsys>US Bureau of Reclamation Security Classification</secsys>
+			<secclass>None</secclass>
+			<sechandl>
+None - General use, no restrictions on handling or use.
+
+Official Use Only/SENSITIVE - Information and data used by Reclamation employees, partners, and customers for daily operational and administrative purposes.  Its unauthorized, inadvertent, or deliberate disclosure, alteration, use, or destruction could affect Reclamation's ability to perform agency functions (including safeguarding the public), impede daily business activities, and/or affect employee productivity.
+
+Official Use Only/RESTRICTED - Information and data intended for internal use only by Reclamation personnel, which may include information from outside sources, that requires the highest level of protection based on potential for harm caused by its unauthorized,  inadvertent, or deliberate disclosure, alteration, or destruction.  Such improper use, modification, or disclosure would significantly and adversely affect Reclamation's employees, partners, and customers as well as significantly impact the agency's ability to accomplish its mission, safeguard the public, and protect the legal and financial rights of the Government.
+</sechandl>
+		</secinfo>
+		<native>Microsoft Windows 2000 Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 8.3.0.800</native>
+		<crossref>
+			<citeinfo>
+				<title>None</title>
+			</citeinfo>
+		</crossref>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>This data was provided by California Department of Water Resources or by individual Water Districts. Digital databases created within the USBR MPGIS Service Center were reviewed using existing quality standards. Maps were provided to the Water Districts and were reviewed by knowledgable staff at Water District. Corrections received were entered by USBR staff and follow current quality control standards within the office.</attraccr>
+			<qattracc>
+				<attraccv>Good</attraccv>
+				<attracce>Digital databases created within the USBR was reviewed using existing quality standards.</attracce>
+			</qattracc>
+		</attracc>
+		<logic>
+Data meets accuracy and quality standards within USBR MPGIS Service Center. Errors do exist.There may be conflicts in the boundaries between districts due to the update times and review process associated with each boundary. Other problems may be associated with Water District name changes that have not been updated and possibly new Water Districts not being included due to lack of information.
+
+Logical Consistency was established by utilizing the 1:24,000-scale USGS topographic map quadrangles as the maximum base map scale. This database is not intended to be used as a land survey or representation of land for conveyance or tax purposes. Further details are discussed in the Process Step portion of this metadata.
+
+All Water Districts were provided boundary maps to review and comment on. The following list of Federal and Private Water Districts did not provide any review comments as of 2/13/01:
+
+ALCO, ALPINE_SPRINGS, ALTA_ID, AMADOR, AMERICAN_CANYON_CO, ANGIOLA, ARDEN, BAKMAN,
+BEAUMONT_CHERRY_VALLEY, BELLA_VISTA, BIGGS_WEST_GRIDLEY, BIG_SPRINGS, BODEGA_BAY, BORON,
+BRIDGEPORT, BROADVIEW, BROWNS_VALLEY, BUTTE, BUTTONWILLOW_CO, BYRON_BETHANY, CABAZON,
+CACHEVILLE,  CALAVERAS_CO, CALIFORNIA_WSC, CALLEGUAS, CATHEDRAL_CITY, CENTINELLA, CENTRAL_DELTA,
+CENT_SAN_JOAQUIN, CHOWCHILLA, CHUALAR, CIRCLE_OAKS, CITY_OF_AVENAL, CITY_OF_BLUE_LAKE, CITY_OF_BLYTHE,
+CITY_OF_CALEXICO, CITY_OF_CALISTOGA, CITY_OF_CLOVIS, CITY_OF_COACHELLA, CITY_OF_COMPTON, CITY_OF_CORONA,
+CITY_OF_DELANO, CITY_OF_DORRIS, CITY_OF_ESCONDIDO, CITY_OF_EUREKA, CITY_OF_FAIRFIELD, CITY_OF_HANFORD,
+CITY_OF_HOLLISTER, CITY_OF_LINDSAY, CITY_OF_MARTINEZ, CITY_OF_MARYSVILLE, CITY_OF_MILLBRAE, CITY_OF_NORWALK,
+CITY_OF_ORANGE, CITY_OF_PALM_DESERT, CITY_OF_PLEASANTON, CITY_OF_PORTOLA, CITY_OF_SACRAMENTO, CITY_OF_SANTA_MARIA,
+CITY_OF_S_PASADENA, CITY_OF_TEHACHAPI, CITY_OF_THOUSAND_OAKS, CITY_OF_TULARE, CITY_OF_TURLOCK, CLEAR_CREEK, CLIO,
+CNTY_OF_COLUSA, COACHELLA_VAL_CO, COASTAL_MWD, COELHO_FAMILY_TRUST, COLUSA_PROP, CONSOLIDATED, CONTRA_COSTA,
+CORDUA, CRAG_VIEW, CRESTLINE_LAKE_ARROWHEAD, CUYAMA, DANTONI, DAVIS_TC, DAYTON, DEL_ESTE, DEL_ORO, DEL_PUERTO,
+DOMINGUEZ, DOMMER_KING, DUCOR, EASTERN, EAST_NILES, EAST_PALO_ALTO, EAST_PASADENA, ELDER_CREEK, ELK_CREEK,
+EL_DORADO_ID, EXETER, FEATHER_RIVER_CANYON, FRESNO_SLOUGH, FRESNO_WW18, GARFIELD, GASQUET, GFCSD, GLENN_VALLEY,
+GRENADA, HACIENDA, HALLWOOD, HEINLEN, HIDDEN_VALLEY_LAKE, HILLS_VALLEY, IDYLLWILD_CO, IGO_ONO_CSD, INDIO,
+IRVINE_RANCH, IVANHOE, JONES_VALLEY, KAWEAH_DELTA, KINGS_COUNTY, LAGUNA_ID, LAKESIDE_IRR, LAKESIDE_MUTUAL,
+LAKE_ARROWHEAD, LAKE_DON_PEDRO, LAKE_HEMET, LANSDALE, LASSEN_CNTY, LAS_VIRGENES, LA_HONDA, LA_QUINTA, LEWIS_CREEK,
+LE_GRAND_ATHLONE, LIME_SADDLE, LINDMORE_ID, LINDSAY, LITTLEROCK, LUCERNE, LUKINS_BROS, MADERA, MAGALIA, MAMMOTH,
+MARIPOSA_CO, MERIDIAN_WD, MIDVALLEY, MONTEREY_CO, MONTE_VISTA, MURRIETA, MYERS_MARSH, M_AND_T, NAPA_CO_FCWCD,
+NATOMAS_CENT, NATOMAS_MWC, NAVY_PUBLIC_WORKS, NEWHALL, NEWHALL_CO, NORTH_FOLSOM, NORTH_KERN_WSD, N_SAN_JOAQUIN,
+OAKDALE, OAKFLAT, OCONNELL, OLIVEHURST, OLIVE_PERCY, ORANGEVALE, ORANGE_COVE, ORLAND_ARTOIS, ORLAND_UNIT, OTAY,
+PACHECO, PADRE_DAM, PANOCHE, PARADISE_PINES, PAUMA, PESCADERO, PINE_COVE_CO, PIXLEY, PLACER_CNTY_SA, PLUMAS, PONDEROSA_BASIN,
+POPLAR, PURISSIMA_HILLS, QUAIL_VALLEY, RAISIN_CITY, RALPH_LANE, RANCHO_MIRAGE, RANCHO_TERRA_BELLA, RAWSON, RECDIST10,
+RECDIST1606, RECDIST2039, RECDIST2064, RECDIST784, RECDIST828, REDWAY, RIVER_GARDEN, ROBERTS_DITCH, SACRAMENTO_CO_WA,
+SACRAMENTO_WMD_Z40, SACRIV_HOLDINGS, SAN_DIEGO, SAN_LORENZO_VALLEY, SARTAIN_MWC, SATIVA, SEMITROPIC, SHASTA_CNTY,
+SHASTA_VIEW, SIERRA, SIERRA_CEDARS, SILVERTHORN, SMUD, SOUTH_YUBA, SO_SUTTER, STALLION_SPRINGS, STINSON_BEACH, STONY_CREEK,
+STRATFORD, SUTTER_BUTTE, SWINFORD_TRAC, S_SAN_JOAQUIN_ID, TAHOE_KEYS, TEHAMA_R_MWC, TEHAMA_WD, TISDALE, TOKAY, TORO,
+TRI_CITIES, TULARE, TULELAKE_ID, TUOLUMNE, TUOLUMNE_CO_DIST1, TURLOCK, VALLEY_CO, VICTOR_VALLEY, VOLCANO,
+WALLER_TRACT, WESTLANDS, WESTWOOD, WILLOW_CREEK, WOODBRIDGE_ID, WOODBRIDGE_WUCD, W_SAN_BERNARDINO, YOLO_ZAMORA,
+YORBA_LINDA, YUBA_CO, and YUCAIPA_VALLEY.
+</logic>
+		<complete>This database represents the most current and accurate understanding of the Water District boundary location and current name of the Water Districts. Edition numbers were added starting with the July 2000 version as edition 1. The edition number associated with the database indicates current edition. Any databases not having a specified edition number should not be used. Please request a current copy of this database from the contact provided.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>No estimate of uncertainty in the placement of the polygon boundaries has been made. Source scale of separate boundaries varies between districts. Separate boundaries are compiled and registered to 1:24,000-scale USGS topographic maps.  No estimate can be made on the positional accuracy of the boundaries or on the currentness of the boundary position as depicted in the GIS databases.</horizpar>
+				<qhorizpa>
+					<horizpav>20 meters</horizpav>
+					<horizpae>Error in digital capture of boundaries is estimated as 12 to 20 meters based on use of the USGS 1:24,000-scale quadrangles.</horizpae>
+				</qhorizpa>
+			</horizpa>
+			<vertacc>
+				<vertaccr>NA</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srcscale>1:24,0000-scale maximum, varies with Water District</srcscale>
+				<typesrc>USGS Topographic Maps, more accurate maps have been used if appropriate</typesrc>
+				<srccitea>Varies</srccitea>
+				<srccontr>Varies</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>
+The USBR provides maps for the various Water Districts to review. Boundary corrections are marked on the map provided or on other source material by knowledgable staff in the Water District. Boundary corrections are delineated at maximum of 1:24,000-scale using USGS topological maps for reference. Data provided at better resolution are maintained at the scale provided. Boundary changes are digitized using a Calcomp 9000 digitizer and Arc/Info.
+
+Not all Water Districts responded to the USBR MP request for review. A list of these are provided in the Data Quality - Logical Consistency report.
+</procdesc>
+				<procdate>Varies</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\DOCUME~1\LPELTZ~1\LOCALS~1\Temp\xmlB5.tmp</srcused>
+			</procstep>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\DOCUME~1\LPELTZ~1\LOCALS~1\Temp\xml7.tmp</srcused>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\LPELTZ~1\LOCALS~1\Temp\xml31F.tmp</srcused><date Sync="TRUE">20031017</date><time Sync="TRUE">09425100</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE"></srcused><date Sync="TRUE">20031017</date><time Sync="TRUE">11311000</time></procstep></lineage>
+		<cloud>NA</cloud>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>Complete chain</sdtstype>
+				<ptvctcnt>17020</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>8256</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>8256</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Point</sdtstype>
+				<ptvctcnt>23</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>648</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>648</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>635</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>145</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>160</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>8</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>22</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>27</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>46</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>5</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>4</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>7</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>4</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>3</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>3</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>23</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>21</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>22</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>3</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>6</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>7</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>26</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>14</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>2</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Composite object</sdtstype>
+				<ptvctcnt>1</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<gridsys>
+					<gridsysn>Universal Transverse Mercator</gridsysn>
+					<utm>
+						<utmzone>10</utmzone>
+						<transmer>
+							<sfctrmer>0.999600</sfctrmer>
+							<longcm>-123.000000</longcm>
+							<latprjo>0.000000</latprjo>
+							<feast>500000.000000</feast>
+							<fnorth>0.000000</fnorth>
+						</transmer>
+					</utm>
+				</gridsys>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+						<absres>0.000520</absres>
+						<ordres>0.000520</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1927</horizdn>
+				<ellips>Clarke 1866</ellips>
+				<semiaxis>6378206.400000</semiaxis>
+				<denflat>294.978698</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>wdpr24.aat</enttypl>
+				<enttypd>Line attributes</enttypd>
+				<enttypds>Map</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FNODE#</attrlabl>
+				<attrdef>Internal node number for the beginning of an arc (from-node).</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>TNODE#</attrlabl>
+				<attrdef>Internal node number for the end of an arc (to-node).</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>LPOLY#</attrlabl>
+				<attrdef>Internal node number for the left polygon.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>RPOLY#</attrlabl>
+				<attrdef>Internal node number for the right polygon.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>LENGTH</attrlabl>
+				<attrdef>Length of feature in internal units.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>WDPR24#</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>WDPR24-ID</attrlabl>
+				<attrdef>User-defined feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>$ID</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>$FROMNODE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>$TONODE</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>$LEFTPOLYGON</attrlabl>
+			</attr>
+			<attr>
+				<attrlabl>$RIGHTPOLYGON</attrlabl>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>wdpr24.pat</enttypl>
+				<enttypd>Polygon attributes</enttypd>
+				<enttypds>Map</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Perimeter of feature in internal units.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>WDPR24#</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>WDPR24-ID</attrlabl>
+				<attrdef>User-defined feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>WDNUM</attrlabl>
+				<attrdef>Unit value indicates polygon inside Water District (1) or outside Water District (0).</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+				<attrvai>
+					<attrva>Good</attrva>
+				</attrvai>
+			</attr>
+			<attr>
+				<attrlabl>WDNAME</attrlabl>
+				<attrdef>Water District Name</attrdef>
+				<attrdefs>MPGIS Service Center, reviewed by Water District</attrdefs>
+				<attrvai>
+					<attrva>Good</attrva>
+				</attrvai>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>wdpr24.tatdistrict</enttypl>
+				<enttypd>District annotation set at 1524 meters. Allows for plotting at specific scale.</enttypd>
+				<enttypds>Map</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DISTRICT#</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DISTRICT-ID</attrlabl>
+				<attrdef>User-defined feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>X</attrlabl>
+				<attrdef>X-coordinate</attrdef>
+				<attrdefs>ArcInfo</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Y</attrlabl>
+				<attrdef>Y-Coordinate</attrdef>
+				<attrdefs>ArcInfo</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>OFFSETX</attrlabl>
+				<attrdef>X offset value</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>OFFSETY</attrlabl>
+				<attrdef>Y offset value</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>HEIGHT</attrlabl>
+				<attrdef>Annotation height 1524 meters</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>SYMBOL</attrlabl>
+				<attrdef>Annotation symbol</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>LEVEL</attrlabl>
+				<attrdef>Annotation level</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TEXT</attrlabl>
+				<attrdef>Annotation text</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>WDNAME</attrlabl>
+				<attrdef>Water District Name</attrdef>
+				<attrdefs>MPGIS Service Center, reviewed by Water District</attrdefs>
+				<attrvai>
+					<attrva>Good - see Logical Consistency Report</attrva>
+				</attrvai>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>wdpr24.tatmpgis</enttypl>
+				<enttypd>Copy of District Annotation. MPGIS annotation set at 0 meters. Allows for plotting at any scale.</enttypd>
+				<enttypds>Map</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>MPGIS#</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>MPGIS-ID</attrlabl>
+				<attrdef>User-defined feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>X</attrlabl>
+				<attrdef>X-Coordinate</attrdef>
+				<attrdefs>ArcInfo</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>Y</attrlabl>
+				<attrdef>Y-Coordinate</attrdef>
+				<attrdefs>ArcInfo</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>OFFSETX</attrlabl>
+				<attrdef>X offset</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>OFFSETY</attrlabl>
+				<attrdef>Y offset</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>HEIGHT</attrlabl>
+				<attrdef>Annotation Height</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>SYMBOL</attrlabl>
+				<attrdef>Annotation symbol</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>LEVEL</attrlabl>
+				<attrdef>Annotation level</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>TEXT</attrlabl>
+				<attrdef>Annotation text</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>WDNAME</attrlabl>
+				<attrdef>Water District Name</attrdef>
+				<attrdefs>MPGIS Service Center, reviewed by Water District</attrdefs>
+				<attrvai>
+					<attrva>Good - see Logical Consistency Report</attrva>
+				</attrvai>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>wdpr24.patdistrict</enttypl>
+				<enttypd>District regions</enttypd>
+				<enttypds>All District databases</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area of feature in internal units squared.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Perimeter of feature in internal units.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Positive real numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DISTRICT#</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DISTRICT-ID</attrlabl>
+				<attrdef>User-defined feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>WDNAME</attrlabl>
+				<attrdef>Water District Name</attrdef>
+				<attrdefs>MPGIS Service Center, reviewed by Water District</attrdefs>
+				<attrvai>
+					<attrva>Good - see Logical Consistency Report</attrva>
+				</attrvai>
+			</attr>
+			<attr>
+				<attrlabl>IDCON</attrlabl>
+				<attrdef>Reference number</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>SHADESYM</attrlabl>
+				<attrdef>Shade symbol color</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+			<attr>
+				<attrlabl>PNAME</attrlabl>
+				<attrdef>Path to database</attrdef>
+				<attrdefs>MPGIS Service Center</attrdefs>
+			</attr>
+		</detailed>
+		<overview>
+			<eaover>See Logical Consistency Report for further information.</eaover>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Bureau of Reclamation, Mid-Pacific Region, MPGIS Service Center</cntorg>
+					<cntper>Charles B. Johnson</cntper>
+				</cntorgp>
+				<cntpos>Regional GIS Program Administrator</cntpos>
+				<cntvoice>916-978-5266</cntvoice>
+				<cntfax>916-978-5290</cntfax>
+				<cntemail>cbjohnson@mp.usbr.gov</cntemail>
+				<hours>8:00 AM - 5:00 PM</hours>
+				<cntinst>Call or email for method of data transfer</cntinst>
+			</cntinfo>
+		</distrib>
+		<resdesc>Private Water Districts for California</resdesc>
+		<distliab>
+The U.S. Bureau of Reclamation and California Department of Water Resources assumes no liability in the application and use of this data. This data was developed for general planning purposes, it is not intended to be used as a land survey or representation of land for conveyance or tax purposes. It was developed from the source documents following standard procedures of reviewing the digital version against the information contained in the source documents. Use of this data at scales which are more detailed than the source scale is not recommended.
+
+This data has not been verified in the field by U.S. Bureau of Reclamation personnel. Should problems be found in this database please contact the Distributor.
+
+NOT FOR DISTRIBUTION WITHOUT NOTICE TO USBR
+</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ARCE</formname>
+					<formspec>ArcInfo export format</formspec>
+					<filedec>no compression applied</filedec>
+					<transize>5.904</transize>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>\\PELTZ\c\gis\hydrography\wdfed24v10</networkr>
+							</networka>
+						</computer>
+						<accinstr>Local area network</accinstr>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None.</fees>
+			<ordering>Call or email Distributor</ordering>
+			<turnarnd>1-2 weeks</turnarnd>
+		</stdorder>
+		<custom>Call or email Distributor</custom>
+		<techpreq>None.</techpreq>
+	</distinfo>
+	<metainfo>
+		<metd>20031017</metd>
+		<metrd>February 2001</metrd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Lorri Peltz-Lewis</cntper>
+					<cntorg>U.S. Bureau of Reclamation, Mid-Pacific Region</cntorg>
+				</cntperp>
+				<cntpos>Geospatial Data Administrator</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>
+2800 Cottage Way
+MP400
+</address>
+					<city>Sacramento</city>
+					<state>CA</state>
+					<postal>95825</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>916-978-5271</cntvoice>
+				<cntfax>926-978-5290</cntfax>
+				<cntemail>lpeltzlewis@mp.usbr.gov</cntemail>
+				<hours>8:00 AM - 5:00 PM</hours>
+				<cntinst>Call or email</cntinst>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metac>None</metac>
+		<metuc>If used, please indicate that the data source was the U.S. Bureau of Reclamation, Mid-Pacific Region, MPGIS Service Center in coordination with the California Department of Water Resources.</metuc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+	</metainfo>
+	<Esri><CreaDate>20031017</CreaDate><CreaTime>11311000</CreaTime><SyncOnce>TRUE</SyncOnce><ModDate>20031017</ModDate><ModTime>09435300</ModTime><MetaID>{BDAA476F-E604-411F-A142-6796E741ECC6}</MetaID></Esri><mdDateSt Sync="TRUE">20031017</mdDateSt><distInfo><distributor><distorTran><onLineSrc><linkage Sync="TRUE">file://</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc></distorTran></distributor></distInfo></metadata>

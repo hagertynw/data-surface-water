@@ -1,0 +1,60 @@
+                                                                                                       TABLE 31
+ 
+                          U.S. DEPARTMENT OF THE INTERIOR - BUREAU OF RECLAMATION
+ 
+                                           FRIANT-KERN CANAL
+                                                 1993
+MONTHLY DELIVERIES IN AF
+ 
+       WATER USERS            JAN    FEB    MAR    APR    MAY    JUN    JUL    AUG    SEP    OCT    NOV    DEC   TOTAL
+ 
+ALPAUGH I.D.                   0      0   1490    706   2369   2629   3113   2209    941      0      0      0   13457
+ARVIN-EDISON W.S.D.            0   6799  23451  24982  34029  29353  33822  27222    195    563   5153   3747  189316
+ATWELL ISLAND W.D.             0      0   1003    432      0   1489   2765   1958    545      0      0      0    8192
+DELANO-EARLIMART I.D.          0   1550   4611  12343  19895  26431  29046  19398  12011   8410   4268    687  138650
+EXETER I.D.                    0      0     78    644  11857   2412   3242   3351   2659   1397    418     43   26101
+FRESNO, CITY OF                0   7253      0      0      0     63  34772  23681      0      0      0      0   65769
+FRESNO, CO. OF (S.A. 8)        0      0      0      0      0      0      0      0      0      0      0      0       0
+FRESNO, CO. OF (S.A. 34)       0      0      4     24     58      0     79     64     49     35     13      2     328
+FRESNO I.D.                    0   3250  53611  14740   4627  13560   4600   5280   1438    223     54      0  101383
+GARFIELD W.D.                  0      0      0    144    651    638    753    755    619    360    462      0    4382
+HARRIS (RND MTN RANCH)         0      0      0      0      0      0      0      0      0      0      0      0       0
+HILLS VALLEY I.D.              0      0      0     11    346   3825    761    725    639    312     75      0    6694
+INTERNATIONAL W.D.             0      0      0    159    171      0    273    344    270    171     28      0    1416
+IVANHOE I.D.                   0      0      0    353   2578   1755   2428   2500   2773   2016    781     88   15272
+KAWEAH DELTA WCD               0      0      0  10000      0      0      0      0      0      0      0      0   10000
+KERN-TULARE W.D.               0      0   1500    612   2270   4469   5049   4206   3299   1694   1233    117   24449
+KINGS COUNTY WD                0      0      0   7726      0      0      0      0      0      0      0      0    7726
+LAKESIDE IWD                   0      0      0   7727      0      0      0      0      0      0      0      0    7727
+LEWIS CREEK W.D.               0      0      0     71    264    281    365    378    272     78      5      0    1714
+LINDMORE I.D.                  0      0    382   1713   5392   6771   8954   8804   6445   3077   1040      0   42578
+LINDSAY, CITY OF               0      0     74    167    240    258    280    265    222    166    127    109    1908
+LINDSAY-STRATHMORE ID          0      0     28   8861   2713   2888   4076   4018   3732   2213    684     63   29276
+LOWER TULE RIVER I.D.          0  21242  38477  35147  50973  65059  51735  41471  17869  17119      0      0  339092
+ORANGE COVE, CITY OF           9      0     30     78     96    111    128    122    103     90     65     64     896
+ORANGE COVE I.D.               0      0      0    442   4305   5340   6926   6325   5383   3224    828      0   32773
+PIXLEY I.D.                    0   1632   8043   8719  16628  20959  13685  14490  12734   7793      0      0  104683
+PORTERVILLE I.D.               0      0    305    963   2517   2586   2913   2160    866    383      0      0   12693
+RAG GULCH W.D.                 0      0    353   1013   1474   1960   2425   1953   1426    856    739    300   12499
+SAUCELITO I.D.                 0     12   2244   4412   7085   7288   9877   6454   3223   1489    562     20   42666
+SEMITROPIC W.S.D.              0      0      0   2714      0      0      0      0      0      0      0      0    2714
+SHAFTER-WASCO I.D.             0   2626   9402  13735  18894  14022  14455   9022   5274   4074   1405      0   92909
+SO. SAN JOAQUIN M.U.D.         0   1523   6526   9664  16874  19825  23542  16008   8762   6531   1823    716  111794
+STONE CORRAL I.D.              0      0      0    277    937   1899   1970   1954   1268    551    196      0    9052
+STYRO TEK, INC.                0      0      0      0      1     23      0      0      0      1      1      0      26
+TEA POT DOME W.D.              0    302      5    124    705   1330   1143   1123   1437    438    174      4    6785
+TERRA BELLA I.D.               0      0      0    205   2064   2784   3630   3510   3127   1662    576     14   17572
+TERRA BELLA VINEYARD           0      0      0      0      0      0      0      0      0      0      0      0       0
+TRI-VALLEY W.D.                0      0      0      8     91    717    222    360    142    117      9      0    1666
+TULARE I.D.                    0  12264  19650  29649  45231  20152  16353  26825    772      0      0      0  170896
+SMALLWOOD VINYARDS             0      0      0     43    130    261     58     57     55     36      2      0     642
+VINTAGE FARMS                  0      0      0      0      0      0      0      0      0      0      0      0       0
+BUENO VISTA WSD                0      0      0   9283      0      0      0      0      0      0      0      0    9283
+CAWELO WD                      0      0      0   1180      0      0      0      0      0      0      0      0    1180
+ROSEDALE RIO BRAVO             0      0      0   5859      0      0      0      0      0      0      0      0    5859
+NORTH-KERN WSD                 0      0      0   1639      0      0      0      0      0      0      0      0    1639
+KERN COUNTY WD                 0      0      0   5887      0      0      0      0      0      0      0      0    5887
+ 
+     TOTAL                     9  58453 171267 222456 255465 261138 283440 236992  98550  65079  20721   5974 1679544
+ 
+*  Data supplied by Fresno Field Division, Contracts Administration Division

@@ -1,0 +1,1541 @@
+/3.2
+(ODB.1
+	FirstRootClassName:	"Legend"
+	Roots:	2
+	Version:	32
+)
+
+(Legend.2
+	SymType:	0x02
+	LegType:	0x08
+	ClassType:	0x03
+	FieldNames:	3
+	Symbols:	4
+	Class:	199
+	Class:	200
+	Class:	201
+	Class:	202
+	Class:	203
+	Class:	204
+	Class:	205
+	Class:	206
+	Class:	207
+	Class:	208
+	Class:	209
+	Class:	210
+	Class:	211
+	Class:	212
+	Class:	213
+	Class:	214
+	Class:	215
+	Class:	216
+	Class:	217
+	Class:	218
+	Class:	219
+	Class:	220
+	Class:	221
+	Class:	222
+	Class:	223
+	Class:	224
+	Class:	225
+	Class:	226
+	Class:	227
+	Class:	228
+	Class:	229
+	Class:	230
+	Class:	231
+	Class:	232
+	Class:	233
+	Class:	234
+	Class:	235
+	Class:	236
+	Class:	237
+	StdDevs:	1.00000000000000
+	NullSym:	195
+	NullValues:	238
+	StatValues:	239
+	Precision:	-3
+)
+
+(AVStr.3
+	S:	"Wdname"
+)
+
+(SymList.4
+	Child:	5
+	Child:	10
+	Child:	15
+	Child:	20
+	Child:	25
+	Child:	30
+	Child:	35
+	Child:	40
+	Child:	45
+	Child:	50
+	Child:	55
+	Child:	60
+	Child:	65
+	Child:	70
+	Child:	75
+	Child:	80
+	Child:	85
+	Child:	90
+	Child:	95
+	Child:	100
+	Child:	105
+	Child:	110
+	Child:	115
+	Child:	120
+	Child:	125
+	Child:	130
+	Child:	135
+	Child:	140
+	Child:	145
+	Child:	150
+	Child:	155
+	Child:	160
+	Child:	165
+	Child:	170
+	Child:	175
+	Child:	180
+	Child:	185
+	Child:	190
+	Child:	195
+)
+
+(BShSym.5
+	Color:	6
+	Outline:	1
+	OutlineColor:	7
+	OutlineWidth:	0.10000000000000
+	BgColor:	8
+	Style:	0x03
+	Stipple:	9
+)
+
+(TClr.6
+	Red:	0xc0ff
+	Green:	0x6538
+	Blue:	0x4920
+)
+
+(TClr.7
+)
+
+(TClr.8
+	Name:	"Transparent"
+)
+
+(Stipple.9
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.10
+	Color:	11
+	Outline:	1
+	OutlineColor:	12
+	OutlineWidth:	0.10000000000000
+	BgColor:	13
+	Style:	0x03
+	Stipple:	14
+)
+
+(TClr.11
+	Red:	0xffff
+	Green:	0xd7d7
+)
+
+(TClr.12
+)
+
+(TClr.13
+	Name:	"Transparent"
+)
+
+(Stipple.14
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.15
+	Color:	16
+	Outline:	1
+	OutlineColor:	17
+	OutlineWidth:	0.10000000000000
+	BgColor:	18
+	Style:	0x03
+	Stipple:	19
+)
+
+(TClr.16
+	Red:	0xbdbd
+	Green:	0xb7b7
+	Blue:	0x6b6b
+)
+
+(TClr.17
+)
+
+(TClr.18
+	Name:	"Transparent"
+)
+
+(Stipple.19
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.20
+	Color:	21
+	Outline:	1
+	OutlineColor:	22
+	OutlineWidth:	0.10000000000000
+	BgColor:	23
+	Style:	0x03
+	Stipple:	24
+)
+
+(TClr.21
+	Red:	0xf7ff
+	Green:	0xb575
+	Blue:	0x67a7
+)
+
+(TClr.22
+)
+
+(TClr.23
+	Name:	"Transparent"
+)
+
+(Stipple.24
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.25
+	Color:	26
+	Outline:	1
+	OutlineColor:	27
+	OutlineWidth:	0.10000000000000
+	BgColor:	28
+	Style:	0x03
+	Stipple:	29
+)
+
+(TClr.26
+	Red:	0xceff
+	Green:	0xc355
+	Blue:	0x9596
+)
+
+(TClr.27
+)
+
+(TClr.28
+	Name:	"Transparent"
+)
+
+(Stipple.29
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.30
+	Color:	31
+	Outline:	1
+	OutlineColor:	32
+	OutlineWidth:	0.10000000000000
+	BgColor:	33
+	Style:	0x03
+	Stipple:	34
+)
+
+(TClr.31
+	Red:	0xcdcd
+	Green:	0x9b9b
+	Blue:	0x1d1d
+)
+
+(TClr.32
+)
+
+(TClr.33
+	Name:	"Transparent"
+)
+
+(Stipple.34
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.35
+	Color:	36
+	Outline:	1
+	OutlineColor:	37
+	OutlineWidth:	0.10000000000000
+	BgColor:	38
+	Style:	0x03
+	Stipple:	39
+)
+
+(TClr.36
+	Red:	0xf0f0
+	Green:	0xe6e6
+	Blue:	0x8c8c
+)
+
+(TClr.37
+)
+
+(TClr.38
+	Name:	"Transparent"
+)
+
+(Stipple.39
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.40
+	Color:	41
+	Outline:	1
+	OutlineColor:	42
+	OutlineWidth:	0.10000000000000
+	BgColor:	43
+	Style:	0x03
+	Stipple:	44
+)
+
+(TClr.41
+	Red:	0xa7b2
+	Green:	0xafff
+	Blue:	0x5e2f
+)
+
+(TClr.42
+)
+
+(TClr.43
+	Name:	"Transparent"
+)
+
+(Stipple.44
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.45
+	Color:	46
+	Outline:	1
+	OutlineColor:	47
+	OutlineWidth:	0.10000000000000
+	BgColor:	48
+	Style:	0x03
+	Stipple:	49
+)
+
+(TClr.46
+	Red:	0xc0ff
+	Green:	0x90b1
+	Blue:	0x5834
+)
+
+(TClr.47
+)
+
+(TClr.48
+	Name:	"Transparent"
+)
+
+(Stipple.49
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.50
+	Color:	51
+	Outline:	1
+	OutlineColor:	52
+	OutlineWidth:	0.10000000000000
+	BgColor:	53
+	Style:	0x03
+	Stipple:	54
+)
+
+(TClr.51
+	Red:	0x8b8b
+	Green:	0x4545
+	Blue:	0x1313
+)
+
+(TClr.52
+)
+
+(TClr.53
+	Name:	"Transparent"
+)
+
+(Stipple.54
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.55
+	Color:	56
+	Outline:	1
+	OutlineColor:	57
+	OutlineWidth:	0.10000000000000
+	BgColor:	58
+	Style:	0x03
+	Stipple:	59
+)
+
+(TClr.56
+	Red:	0xacff
+	Green:	0x9619
+	Blue:	0xac
+)
+
+(TClr.57
+)
+
+(TClr.58
+	Name:	"Transparent"
+)
+
+(Stipple.59
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.60
+	Color:	61
+	Outline:	1
+	OutlineColor:	62
+	OutlineWidth:	0.10000000000000
+	BgColor:	63
+	Style:	0x03
+	Stipple:	64
+)
+
+(TClr.61
+	Red:	0x6969
+	Green:	0x8b8b
+	Blue:	0x6969
+)
+
+(TClr.62
+)
+
+(TClr.63
+	Name:	"Transparent"
+)
+
+(Stipple.64
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.65
+	Color:	66
+	Outline:	1
+	OutlineColor:	67
+	OutlineWidth:	0.10000000000000
+	BgColor:	68
+	Style:	0x03
+	Stipple:	69
+)
+
+(TClr.66
+	Red:	0x8b8b
+	Green:	0x6969
+	Blue:	0x1414
+)
+
+(TClr.67
+)
+
+(TClr.68
+	Name:	"Transparent"
+)
+
+(Stipple.69
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.70
+	Color:	71
+	Outline:	1
+	OutlineColor:	72
+	OutlineWidth:	0.10000000000000
+	BgColor:	73
+	Style:	0x03
+	Stipple:	74
+)
+
+(TClr.71
+	Red:	0x8b8b
+	Green:	0x8b8b
+)
+
+(TClr.72
+)
+
+(TClr.73
+	Name:	"Transparent"
+)
+
+(Stipple.74
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.75
+	Color:	76
+	Outline:	1
+	OutlineColor:	77
+	OutlineWidth:	0.10000000000000
+	BgColor:	78
+	Style:	0x03
+	Stipple:	79
+)
+
+(TClr.76
+	Red:	0xff00
+	Green:	0xfb42
+	Blue:	0xc33b
+)
+
+(TClr.77
+)
+
+(TClr.78
+	Name:	"Transparent"
+)
+
+(Stipple.79
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.80
+	Color:	81
+	Outline:	1
+	OutlineColor:	82
+	OutlineWidth:	0.10000000000000
+	BgColor:	83
+	Style:	0x03
+	Stipple:	84
+)
+
+(TClr.81
+	Red:	0xbdff
+	Green:	0xb04a
+	Blue:	0x56d5
+)
+
+(TClr.82
+)
+
+(TClr.83
+	Name:	"Transparent"
+)
+
+(Stipple.84
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.85
+	Color:	86
+	Outline:	1
+	OutlineColor:	87
+	OutlineWidth:	0.10000000000000
+	BgColor:	88
+	Style:	0x03
+	Stipple:	89
+)
+
+(TClr.86
+	Red:	0xdc00
+	Green:	0xce49
+	Blue:	0xdb
+)
+
+(TClr.87
+)
+
+(TClr.88
+	Name:	"Transparent"
+)
+
+(Stipple.89
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.90
+	Color:	91
+	Outline:	1
+	OutlineColor:	92
+	OutlineWidth:	0.10000000000000
+	BgColor:	93
+	Style:	0x03
+	Stipple:	94
+)
+
+(TClr.91
+	Red:	0xfeff
+	Green:	0xea26
+	Blue:	0xc638
+)
+
+(TClr.92
+)
+
+(TClr.93
+	Name:	"Transparent"
+)
+
+(Stipple.94
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.95
+	Color:	96
+	Outline:	1
+	OutlineColor:	97
+	OutlineWidth:	0.10000000000000
+	BgColor:	98
+	Style:	0x03
+	Stipple:	99
+)
+
+(TClr.96
+	Red:	0xffff
+	Green:	0xc7c7
+	Blue:	0xaeae
+)
+
+(TClr.97
+)
+
+(TClr.98
+	Name:	"Transparent"
+)
+
+(Stipple.99
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.100
+	Color:	101
+	Outline:	1
+	OutlineColor:	102
+	OutlineWidth:	0.10000000000000
+	BgColor:	103
+	Style:	0x03
+	Stipple:	104
+)
+
+(TClr.101
+	Red:	0xa600
+	Green:	0xb600
+	Blue:	0x5500
+)
+
+(TClr.102
+)
+
+(TClr.103
+	Name:	"Transparent"
+)
+
+(Stipple.104
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.105
+	Color:	106
+	Outline:	1
+	OutlineColor:	107
+	OutlineWidth:	0.10000000000000
+	BgColor:	108
+	Style:	0x03
+	Stipple:	109
+)
+
+(TClr.106
+	Red:	0xdb00
+	Green:	0x6700
+)
+
+(TClr.107
+)
+
+(TClr.108
+	Name:	"Transparent"
+)
+
+(Stipple.109
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.110
+	Color:	111
+	Outline:	1
+	OutlineColor:	112
+	OutlineWidth:	0.10000000000000
+	BgColor:	113
+	Style:	0x03
+	Stipple:	114
+)
+
+(TClr.111
+	Red:	0xe500
+	Green:	0xa100
+)
+
+(TClr.112
+)
+
+(TClr.113
+	Name:	"Transparent"
+)
+
+(Stipple.114
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.115
+	Color:	116
+	Outline:	1
+	OutlineColor:	117
+	OutlineWidth:	0.10000000000000
+	BgColor:	118
+	Style:	0x03
+	Stipple:	119
+)
+
+(TClr.116
+	Red:	0xf700
+	Green:	0xd300
+	Blue:	0xb300
+)
+
+(TClr.117
+)
+
+(TClr.118
+	Name:	"Transparent"
+)
+
+(Stipple.119
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.120
+	Color:	121
+	Outline:	1
+	OutlineColor:	122
+	OutlineWidth:	0.10000000000000
+	BgColor:	123
+	Style:	0x03
+	Stipple:	124
+)
+
+(TClr.121
+	Red:	0x7300
+	Green:	0x8300
+	Blue:	0x2500
+)
+
+(TClr.122
+)
+
+(TClr.123
+	Name:	"Transparent"
+)
+
+(Stipple.124
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.125
+	Color:	126
+	Outline:	1
+	OutlineColor:	127
+	OutlineWidth:	0.10000000000000
+	BgColor:	128
+	Style:	0x03
+	Stipple:	129
+)
+
+(TClr.126
+	Red:	0xb100
+	Green:	0xba00
+	Blue:	0x8400
+)
+
+(TClr.127
+)
+
+(TClr.128
+	Name:	"Transparent"
+)
+
+(Stipple.129
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.130
+	Color:	131
+	Outline:	1
+	OutlineColor:	132
+	OutlineWidth:	0.10000000000000
+	BgColor:	133
+	Style:	0x03
+	Stipple:	134
+)
+
+(TClr.131
+	Red:	0xc0ff
+	Green:	0x6538
+	Blue:	0x4920
+)
+
+(TClr.132
+)
+
+(TClr.133
+	Name:	"Transparent"
+)
+
+(Stipple.134
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.135
+	Color:	136
+	Outline:	1
+	OutlineColor:	137
+	OutlineWidth:	0.10000000000000
+	BgColor:	138
+	Style:	0x03
+	Stipple:	139
+)
+
+(TClr.136
+	Red:	0xffff
+	Green:	0xd7d7
+)
+
+(TClr.137
+)
+
+(TClr.138
+	Name:	"Transparent"
+)
+
+(Stipple.139
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.140
+	Color:	141
+	Outline:	1
+	OutlineColor:	142
+	OutlineWidth:	0.10000000000000
+	BgColor:	143
+	Style:	0x03
+	Stipple:	144
+)
+
+(TClr.141
+	Red:	0xbdbd
+	Green:	0xb7b7
+	Blue:	0x6b6b
+)
+
+(TClr.142
+)
+
+(TClr.143
+	Name:	"Transparent"
+)
+
+(Stipple.144
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.145
+	Color:	146
+	Outline:	1
+	OutlineColor:	147
+	OutlineWidth:	0.10000000000000
+	BgColor:	148
+	Style:	0x03
+	Stipple:	149
+)
+
+(TClr.146
+	Red:	0xf7ff
+	Green:	0xb575
+	Blue:	0x67a7
+)
+
+(TClr.147
+)
+
+(TClr.148
+	Name:	"Transparent"
+)
+
+(Stipple.149
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.150
+	Color:	151
+	Outline:	1
+	OutlineColor:	152
+	OutlineWidth:	0.10000000000000
+	BgColor:	153
+	Style:	0x03
+	Stipple:	154
+)
+
+(TClr.151
+	Red:	0xceff
+	Green:	0xc355
+	Blue:	0x9596
+)
+
+(TClr.152
+)
+
+(TClr.153
+	Name:	"Transparent"
+)
+
+(Stipple.154
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.155
+	Color:	156
+	Outline:	1
+	OutlineColor:	157
+	OutlineWidth:	0.10000000000000
+	BgColor:	158
+	Style:	0x03
+	Stipple:	159
+)
+
+(TClr.156
+	Red:	0xcdcd
+	Green:	0x9b9b
+	Blue:	0x1d1d
+)
+
+(TClr.157
+)
+
+(TClr.158
+	Name:	"Transparent"
+)
+
+(Stipple.159
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.160
+	Color:	161
+	Outline:	1
+	OutlineColor:	162
+	OutlineWidth:	0.10000000000000
+	BgColor:	163
+	Style:	0x03
+	Stipple:	164
+)
+
+(TClr.161
+	Red:	0xf0f0
+	Green:	0xe6e6
+	Blue:	0x8c8c
+)
+
+(TClr.162
+)
+
+(TClr.163
+	Name:	"Transparent"
+)
+
+(Stipple.164
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.165
+	Color:	166
+	Outline:	1
+	OutlineColor:	167
+	OutlineWidth:	0.10000000000000
+	BgColor:	168
+	Style:	0x03
+	Stipple:	169
+)
+
+(TClr.166
+	Red:	0xa7b2
+	Green:	0xafff
+	Blue:	0x5e2f
+)
+
+(TClr.167
+)
+
+(TClr.168
+	Name:	"Transparent"
+)
+
+(Stipple.169
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.170
+	Color:	171
+	Outline:	1
+	OutlineColor:	172
+	OutlineWidth:	0.10000000000000
+	BgColor:	173
+	Style:	0x03
+	Stipple:	174
+)
+
+(TClr.171
+	Red:	0xc0ff
+	Green:	0x90b1
+	Blue:	0x5834
+)
+
+(TClr.172
+)
+
+(TClr.173
+	Name:	"Transparent"
+)
+
+(Stipple.174
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.175
+	Color:	176
+	Outline:	1
+	OutlineColor:	177
+	OutlineWidth:	0.10000000000000
+	BgColor:	178
+	Style:	0x03
+	Stipple:	179
+)
+
+(TClr.176
+	Red:	0x8b8b
+	Green:	0x4545
+	Blue:	0x1313
+)
+
+(TClr.177
+)
+
+(TClr.178
+	Name:	"Transparent"
+)
+
+(Stipple.179
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.180
+	Color:	181
+	Outline:	1
+	OutlineColor:	182
+	OutlineWidth:	0.10000000000000
+	BgColor:	183
+	Style:	0x03
+	Stipple:	184
+)
+
+(TClr.181
+	Red:	0xacff
+	Green:	0x9619
+	Blue:	0xac
+)
+
+(TClr.182
+)
+
+(TClr.183
+	Name:	"Transparent"
+)
+
+(Stipple.184
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.185
+	Color:	186
+	Outline:	1
+	OutlineColor:	187
+	OutlineWidth:	0.10000000000000
+	BgColor:	188
+	Style:	0x03
+	Stipple:	189
+)
+
+(TClr.186
+	Red:	0x6969
+	Green:	0x8b8b
+	Blue:	0x6969
+)
+
+(TClr.187
+)
+
+(TClr.188
+	Name:	"Transparent"
+)
+
+(Stipple.189
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.190
+	Color:	191
+	Outline:	1
+	OutlineColor:	192
+	OutlineWidth:	0.10000000000000
+	BgColor:	193
+	Style:	0x03
+	Stipple:	194
+)
+
+(TClr.191
+	Red:	0x8b8b
+	Green:	0x6969
+	Blue:	0x1414
+)
+
+(TClr.192
+)
+
+(TClr.193
+	Name:	"Transparent"
+)
+
+(Stipple.194
+	Columns:	8
+	Rows:	8
+	Bits:	55555555 55555555 
+)
+
+(BShSym.195
+	Color:	196
+	Outline:	1
+	OutlineColor:	197
+	OutlineWidth:	0.10000000000000
+	BgColor:	198
+)
+
+(TClr.196
+	Name:	"Transparent"
+)
+
+(TClr.197
+	Name:	"Transparent"
+)
+
+(TClr.198
+	Red:	0xffff
+	Green:	0xffff
+	Blue:	0xffff
+)
+
+(LClass.199
+	IsText:	1
+	Label:	"ALAMEDA CO FC & WCD ZONE 7"
+	MinStr:	"ALAMEDA CO FC & WCD ZONE 7"
+	MaxStr:	"ALAMEDA CO FC & WCD ZONE 7"
+	Precision:	-3
+)
+
+(LClass.200
+	IsText:	1
+	Label:	"ALAMEDA COUNTY WATER DISTRICT"
+	MinStr:	"ALAMEDA COUNTY WATER DISTRICT"
+	MaxStr:	"ALAMEDA COUNTY WATER DISTRICT"
+	Precision:	-3
+)
+
+(LClass.201
+	IsText:	1
+	Label:	"ANTELOPE VALLEY-EAST KERN W.A."
+	MinStr:	"ANTELOPE VALLEY-EAST KERN W.A."
+	MaxStr:	"ANTELOPE VALLEY-EAST KERN W.A."
+	Precision:	-3
+)
+
+(LClass.202
+	IsText:	1
+	Label:	"BELRIDGE W.S.D."
+	MinStr:	"BELRIDGE W.S.D."
+	MaxStr:	"BELRIDGE W.S.D."
+	Precision:	-3
+)
+
+(LClass.203
+	IsText:	1
+	Label:	"BERRENDA MESA W.D."
+	MinStr:	"BERRENDA MESA W.D."
+	MaxStr:	"BERRENDA MESA W.D."
+	Precision:	-3
+)
+
+(LClass.204
+	IsText:	1
+	Label:	"BUENA VISTA W.S.D."
+	MinStr:	"BUENA VISTA W.S.D."
+	MaxStr:	"BUENA VISTA W.S.D."
+	Precision:	-3
+)
+
+(LClass.205
+	IsText:	1
+	Label:	"BUTTONWILLOW IMPROVEMENT DIST."
+	MinStr:	"BUTTONWILLOW IMPROVEMENT DIST."
+	MaxStr:	"BUTTONWILLOW IMPROVEMENT DIST."
+	Precision:	-3
+)
+
+(LClass.206
+	IsText:	1
+	Label:	"CAWELO W.D."
+	MinStr:	"CAWELO W.D."
+	MaxStr:	"CAWELO W.D."
+	Precision:	-3
+)
+
+(LClass.207
+	IsText:	1
+	Label:	"CITY OF YUBA CITY W.S.A."
+	MinStr:	"CITY OF YUBA CITY W.S.A."
+	MaxStr:	"CITY OF YUBA CITY W.S.A."
+	Precision:	-3
+)
+
+(LClass.208
+	IsText:	1
+	Label:	"COACHELLA VALLEY W.D."
+	MinStr:	"COACHELLA VALLEY W.D."
+	MaxStr:	"COACHELLA VALLEY W.D."
+	Precision:	-3
+)
+
+(LClass.209
+	IsText:	1
+	Label:	"CRESTLINE-LAKE ARROWHEAD W.A."
+	MinStr:	"CRESTLINE-LAKE ARROWHEAD W.A."
+	MaxStr:	"CRESTLINE-LAKE ARROWHEAD W.A."
+	Precision:	-3
+)
+
+(LClass.210
+	IsText:	1
+	Label:	"DESERT WATER AGENCY"
+	MinStr:	"DESERT WATER AGENCY"
+	MaxStr:	"DESERT WATER AGENCY"
+	Precision:	-3
+)
+
+(LClass.211
+	IsText:	1
+	Label:	"DEVILS DEN W.D."
+	MinStr:	"DEVILS DEN W.D."
+	MaxStr:	"DEVILS DEN W.D."
+	Precision:	-3
+)
+
+(LClass.212
+	IsText:	1
+	Label:	"DUDLEY RIDGE W.D."
+	MinStr:	"DUDLEY RIDGE W.D."
+	MaxStr:	"DUDLEY RIDGE W.D."
+	Precision:	-3
+)
+
+(LClass.213
+	IsText:	1
+	Label:	"EMPIRE WEST SIDE W.D."
+	MinStr:	"EMPIRE WEST SIDE W.D."
+	MaxStr:	"EMPIRE WEST SIDE W.D."
+	Precision:	-3
+)
+
+(LClass.214
+	IsText:	1
+	Label:	"HACIENDA W.D."
+	MinStr:	"HACIENDA W.D."
+	MaxStr:	"HACIENDA W.D."
+	Precision:	-3
+)
+
+(LClass.215
+	IsText:	1
+	Label:	"HENRY MILLER W.D."
+	MinStr:	"HENRY MILLER W.D."
+	MaxStr:	"HENRY MILLER W.D."
+	Precision:	-3
+)
+
+(LClass.216
+	IsText:	1
+	Label:	"KERN CO W.A. IMPROV.DIST. #4"
+	MinStr:	"KERN CO W.A. IMPROV.DIST. #4"
+	MaxStr:	"KERN CO W.A. IMPROV.DIST. #4"
+	Precision:	-3
+)
+
+(LClass.217
+	IsText:	1
+	Label:	"KERN DELTA W.D."
+	MinStr:	"KERN DELTA W.D."
+	MaxStr:	"KERN DELTA W.D."
+	Precision:	-3
+)
+
+(LClass.218
+	IsText:	1
+	Label:	"LITTLEROCK CREEK I.D."
+	MinStr:	"LITTLEROCK CREEK I.D."
+	MaxStr:	"LITTLEROCK CREEK I.D."
+	Precision:	-3
+)
+
+(LClass.219
+	IsText:	1
+	Label:	"LOST HILLS W.D."
+	MinStr:	"LOST HILLS W.D."
+	MaxStr:	"LOST HILLS W.D."
+	Precision:	-3
+)
+
+(LClass.220
+	IsText:	1
+	Label:	"METROPOLITAN WATER DISTRICT"
+	MinStr:	"METROPOLITAN WATER DISTRICT"
+	MaxStr:	"METROPOLITAN WATER DISTRICT"
+	Precision:	-3
+)
+
+(LClass.221
+	IsText:	1
+	Label:	"MOJAVE WA-DIV 2-IMP DIST M"
+	MinStr:	"MOJAVE WA-DIV 2-IMP DIST M"
+	MaxStr:	"MOJAVE WA-DIV 2-IMP DIST M"
+	Precision:	-3
+)
+
+(LClass.222
+	IsText:	1
+	Label:	"NAPA CO. F.C.W.C.D."
+	MinStr:	"NAPA CO. F.C.W.C.D."
+	MaxStr:	"NAPA CO. F.C.W.C.D."
+	Precision:	-3
+)
+
+(LClass.223
+	IsText:	1
+	Label:	"OAK FLAT W.D."
+	MinStr:	"OAK FLAT W.D."
+	MaxStr:	"OAK FLAT W.D."
+	Precision:	-3
+)
+
+(LClass.224
+	IsText:	1
+	Label:	"PALMDALE W.D."
+	MinStr:	"PALMDALE W.D."
+	MaxStr:	"PALMDALE W.D."
+	Precision:	-3
+)
+
+(LClass.225
+	IsText:	1
+	Label:	"POND POSO IMPROVEMENT DISTRICT"
+	MinStr:	"POND POSO IMPROVEMENT DISTRICT"
+	MaxStr:	"POND POSO IMPROVEMENT DISTRICT"
+	Precision:	-3
+)
+
+(LClass.226
+	IsText:	1
+	Label:	"ROSEDALE-RIO BRAVO W.S.D."
+	MinStr:	"ROSEDALE-RIO BRAVO W.S.D."
+	MaxStr:	"ROSEDALE-RIO BRAVO W.S.D."
+	Precision:	-3
+)
+
+(LClass.227
+	IsText:	1
+	Label:	"SAN BERNARDINO VALLEY M.W.D."
+	MinStr:	"SAN BERNARDINO VALLEY M.W.D."
+	MaxStr:	"SAN BERNARDINO VALLEY M.W.D."
+	Precision:	-3
+)
+
+(LClass.228
+	IsText:	1
+	Label:	"SAN GORGONIO PASS WATER AGENCY"
+	MinStr:	"SAN GORGONIO PASS WATER AGENCY"
+	MaxStr:	"SAN GORGONIO PASS WATER AGENCY"
+	Precision:	-3
+)
+
+(LClass.229
+	IsText:	1
+	Label:	"SAN LUIS OBISPO COUNTY"
+	MinStr:	"SAN LUIS OBISPO COUNTY"
+	MaxStr:	"SAN LUIS OBISPO COUNTY"
+	Precision:	-3
+)
+
+(LClass.230
+	IsText:	1
+	Label:	"SANTA CLARA VALLEY W.D."
+	MinStr:	"SANTA CLARA VALLEY W.D."
+	MaxStr:	"SANTA CLARA VALLEY W.D."
+	Precision:	-3
+)
+
+(LClass.231
+	IsText:	1
+	Label:	"SEMITROPIC W.S.D."
+	MinStr:	"SEMITROPIC W.S.D."
+	MaxStr:	"SEMITROPIC W.S.D."
+	Precision:	-3
+)
+
+(LClass.232
+	IsText:	1
+	Label:	"TEHACHAPI-CUMMINGS CO. W.D."
+	MinStr:	"TEHACHAPI-CUMMINGS CO. W.D."
+	MaxStr:	"TEHACHAPI-CUMMINGS CO. W.D."
+	Precision:	-3
+)
+
+(LClass.233
+	IsText:	1
+	Label:	"TEJON-CASTAC W.D."
+	MinStr:	"TEJON-CASTAC W.D."
+	MaxStr:	"TEJON-CASTAC W.D."
+	Precision:	-3
+)
+
+(LClass.234
+	IsText:	1
+	Label:	"TULARE LAKE BASIN W.S.D."
+	MinStr:	"TULARE LAKE BASIN W.S.D."
+	MaxStr:	"TULARE LAKE BASIN W.S.D."
+	Precision:	-3
+)
+
+(LClass.235
+	IsText:	1
+	Label:	"WEST KERN W.D."
+	MinStr:	"WEST KERN W.D."
+	MaxStr:	"WEST KERN W.D."
+	Precision:	-3
+)
+
+(LClass.236
+	IsText:	1
+	Label:	"WHEELER RIDGE-MARICOPA W.S.D."
+	MinStr:	"WHEELER RIDGE-MARICOPA W.S.D."
+	MaxStr:	"WHEELER RIDGE-MARICOPA W.S.D."
+	Precision:	-3
+)
+
+(LClass.237
+	IsNoData:	1
+	IsText:	1
+	Label:	"No Data"
+	Precision:	-3
+)
+
+(NameDict.238
+)
+
+(NameDict.239
+)
+

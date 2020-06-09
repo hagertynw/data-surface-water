@@ -1,0 +1,129 @@
+INFORMATION ABOUT THE DEPARTMENT OF WATER RESOURCES' 
+DETAILED ANALYSIS UNIT DIGITAL MAP (DWRDAUV20)
+December 17, 2003
+
+
+The Department of Water Resources (DWR) uses Detailed Analysis Units (DAU) as 
+the base geographic unit for most statewide planning purposes.  There are 278 
+DAU's that cover all of mainland California.  The DAU's are nested inside 46 
+Planning Subareas (PSA), which in turn are nested inside of 10 Hydrologic 
+Regions (HR). 
+
+Development of the DAU GIS data:
+
+1.  DWR used, as a starting point, the vector data from Calwater 2.0.  This 
+vector data was provided to all four DWR District Offices.  Each District 
+Office made the decisions as to which vector lines were to be used from the 
+Calwater 2.0 data.  
+
+2.  The District Offices then digitized, from previously drawn DAU boundaries 
+drawn on USGS 1:24,000 maps, those DAU lines which were not taken from the 
+Calwater 2.0 data.  
+
+3.  All four Districts' digital data was then brought together at Headquarters 
+into one file, and run through quality control procedures to clean up the 
+linework, and attribute each DAU appropriately, creating a draft digital map.  
+
+4.  The draft DAU digital map was reviewed by Headquarters and the four 
+District Offices, and all discovered errors were corrected.  
+
+5.  Two products were finalized:
+
+  a.  An AUTOCAD DWG file, DWRDAUV10.DWG (version 1.0), which contains the 
+  linework and limited attributes (just the DAU code).  
+  b.  A Shape file(s), DWRDAUV10.SHP, .SHX, .DBF (version 1.0), which 
+  contains the polygons and the complete attributing of each polygon.  
+
+6.  In December of 2003, an error was corrected in the boundary on the valley 
+floor between the Tulare Lake Region and the San Joaquin Region.  It resulted
+in a new shape file, DWRDAUV20.SHP.  The only major change that resulted was, 
+on the westside, DAU 220 became larger and two polygons, and DAU 248 became 
+smaller.  On the eastside, DAU 234 became smaller, and DAU 214 became larger. 
+In addition, a new column was added containing the California Planning Update  
+Area number.      
+
+Projection Information:
+
+The data is in a transverse mercator projection called CA105.  It is identical 
+to the UTM projections, except the central meridian is -120 degrees (120 
+degrees west).  For comparison, UTM 10 has a central meridian of 123 degrees 
+west, and UTM 11 has a central meridian of 117 degrees west.  
+
+Projection:			Transverse Mercator
+Datum:                  NAD27
+Units:                  Meter
+Scale Reduction:        0.9996
+Central Meridian:       120 degrees west
+Origin Latitude:        0.00 N
+False Easting:          500,000
+False Northing:         0.00
+
+
+Information about the Data Files:
+
+AUTOCAD (DWG) File:
+
+The file DWRDAUV10.DWG is a Autocad 12 file, and contains the following layers:
+
+Layer		Description				
+0		AutoCAD's default layer		
+D_B		DAU linework
+D_A		DAU attribute (consisting of a "D" and a 3 character 
+		string code) 
+D_T		The DAU code (3 character string) as text
+
+Shapefile:
+
+Following is an explanation of the attributes in the DWRDAUV10.DBF file:
+
+X_COORD		The X coordinate of the interior point in the delineated area
+Y_COORD		The Y coordinate of the interior point in the delineated area
+ACRES		The acreage of the delineated area	
+DAU_CODE	The DAU code (3 character string) of the delineated area
+DAU_NAME	The DAU name (character string) of the delineated area
+PSA_CODE	The PSA code (3 character string) of PSA encompassing the 
+		delineated area
+PSA_NAME	The PSA name (character string) of the PSA encompassing the 
+		delineated area
+HR_CODE		The HR code (2 character string) of the HR encompassing the 
+		delineated area
+HR_NAME		The HR name (character string) of the HR encompassing the 
+		delineated area
+DAUID_CODE	The DAU identification code (8 character string), which is a 
+		concatenation of the HR_CODE, PSA_CODE, and DAU_CODE.   
+PA_NO           The California Planning Update area number (6 character number).
+
+
+Additional Information:
+
+For more information about the development of this digital map, please 
+contact the following staff:
+
+Tito Cervantes
+Northern District Office
+530-529-7389
+cervante@water.ca.gov
+
+Ed Morris
+Central District Office
+916-227-7578
+emorris@water.ca.gov
+
+Dave Scruggs
+San Joaquin District Office
+559-230-3322
+dscruggs@water.ca.gov
+
+Davie Inouye
+Southern District Office
+818-543-4654
+davidi@water.ca.gov
+
+Tom Hawkins
+DPLA Headquarters
+916-653-5573
+hawkins@water.ca.gov
+
+
+
+

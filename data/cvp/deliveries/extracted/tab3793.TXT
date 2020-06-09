@@ -1,0 +1,68 @@
+Bold values indicate a revision was made in Dec 2002.                                      TABLE 37
+ 
+                            UNITED STATES DEPARTMENT OF THE INTERIOR - BUREAU OF RECLAMATION
+                                      SACRAMENTO RIVER
+                                               1993
+MONTHLY DELIVERIES IN AF
+       WATER USERS       JAN  FEB  MAR   APR    MAY     JUN     JUL     AUG     SEP    OCT   NOV  DEC  TOTAL
+ 
+ANDREOTTI, O.             0    0    0      0     353     307     497     540    217    130    0    0     2044
+CANNELL, FRED             0    0    0     33     206      46     253      19    154      0    0    0      711
+CARTER, ROBERT            0    0    0     39     216     124     178      76     90     27    0    0      750
+CHAPLIN, MAY B.           0    0    0      8     747    1238    1910    1853    633    348    0    0     6737
+CITY OF WEST SACRAMENTO   0    0    0      0       0       0       0       0      0      0    0    0        0
+CLAUSS, JOHN JR.          0    0    0      0     306     300     585     482    199      0    0    0     1872
+COLUSA IRRIGATIN CO.      0    0    0      0       0      10       9       0      0      0    0    0       19
+COLUSA PROP. INC.         0    0    0     72     142      65     149     102     35      0    0    0      565
+DAVIS, OLIVE P.           0    0    0    632    5731    3701    5756    4658    572      0    0    0    21050
+DESERET FARMS CA          0    0    0      0     295     425     496     337     23      0    0    0     1576
+FARGO & HAGGERTY          0    0    0      0     365     466     571     317      0      0    0    0     1719
+FORRY, DAVID G.           0    0    0     45     118     162     386     447    208      0    0    0     1366
+FURLAN AREA #1            0    0    0      0      62       0      22      42      0      0    0    0      126
+FURLAN AREA #2            0    0    0      0       0       0       0       0      0      0    0    0        0
+GLENN-COLUSA I.D.         0    0    0  37192  104452   97868  121812  109989  40343   9315    0    0   520971
+GRIFFIN, J.               0    0    0      0     413     206     392     568    189      0    0    0     1768
+HENLE, JOHN R.            0    0    0      0       0      12     143       1      0      0    0    0      156
+HERSHEY LAND CO.          0    0    0      0     234     390     414     332      0      0    0    0     1370
+HIATT, GLENN              0    0    0      0     105     155     145      77      0      0    0    0      482
+HOLLINS, MARIETTE         0    0    0     14     152     318     310     170     71     12    0    0     1047
+HOWALD FARMS              0    0    0      3     368     339     578     276    175      0    0    0     1739
+KNAGGS, LAYTON            0    0    0      0       0     113     102     144    273      0    0    0      632
+BABER, JACK               0    0    0      0     489     414     396     400     33      0    0    0     1732
+ODYESSEUS (LORVORN)       0    0    0      2      35      52      17       0     21      0    0    0      127
+M & T INC.                0    0    0      0     416      85    1339    1754   1395      0    0    0     4989
+MAXWELL I.D.              0    0    0      0    1746    1881    2242    2739   2622   1389    0    0    12619
+MCM PROPERTIES            0    0    0      0      23      27     148      39      0      0    0    0      237
+MERIDIAN FARMS W.C.       0    0    0    103    3664    4285    4997    4511   1509      0    0    0    19069
+NATOMAS CENTRAL M.W.C.    0    0    0    447   17985   15215   20722   16291   5225   1153    0    0    77038
+NEWHALL LAND & FARMING    0    0    0     79     715     967     328     229    104      0    0    0     2422
+OJI BROS. FARMS INC.      0    0    0      0     276     182     448     175      0      0    0    0     1081
+OJI, MASONOBU             0    0    0      0      76     202     211     196     15      0    0    0      700
+PELGER MUTUAL W.C.        0    0    0     21    1448     609     868    1178    471      3    0    0     4598
+PLEASANT GROVE-VERONA     0    0    0     72    2957    2582    3905    3380    428    449    0    0    13773
+PRINCETON-CODORA-GLEN I   0    0    0   2680   11009    9005   11611   10613   3392    419    0    0    48729
+PROVIDENT IRRIGATION      0    0    0   3415    8599    9126   12847    6945      0   3313    0    0    44245
+RECLAMATION DIST. #108    0    0    0   4076   24714   24749   36759   27651   5916     61    0    0   123926
+RECLAMATION DIST. #1004   0    0    0   1797   11715   10080   12045   10711   3128   5343    0    0    54819
+RIVER GARDEN FARMS        0    0    0    140    3790    3438    6272    6272    900      0    0    0    20812
+ROBERTS DITCH IRRIG. CO   0    0    0    156     491     359     476     348    144      2    0    0     1976
+SARTAIN MUTUAL W.C.       0    0    0      0     591     664    1026     814     98    353    0    0     3546
+SUTTER MUTUAL W.C.        0    0    0   8125   37988   37823   46336   38416  19329   2626    0    0   190643
+SWINFORD TRACT I.C.       0    0    0      0       0       0      49      20      0      0    0    0       69
+REGENTS OF UNIV. OF CA    0    0    0      0      77      39      73     171    186      0    0    0      546
+TISDALE IRRIGATION & DR   0    0    0     34     876     746    1360    1217    287      0    0    0     4520
+HULBERT, & TARKE          0    0    0     16     325     442     262     120      0      0    0    0     1165
+WALLACE CONSTRUCTION      0    0    0      0       0     181     259      49      0      0    0    0      489
+WELLS, JOYCE M.           0    0    0     15     165     344     411     225     94     16    0    0     1270
+AFF BOEGER CORP           0    0    0     52     183     336     239     356     67      0    0    0     1233
+CONAWAY CONS. GROUP       0    0    0      2    4572    4041    6559    5618   1201   1859    0    0    23852
+SPENCE, RUTH              0    0    0      0       0      16      40      11      0      0    0    0       67
+FEATHER RIVER W.D. (15.  16   13    0      5     928    1403    1595     804    836     16    0    0     5616
+FEATHER RIVER W.D. (20.   1    0    0     12    1238    1819    2728    1138   1425      0    0    0     8361
+JANICE OBRIEN             0    0    0      4     177      92      57      10      0      0    0    0      340
+WILSON RANCH              0    0    0      0       0       0       6       4      0      1    0    0       11
+WILLIAM LOCKETT           0    0    0      0       0       0      68       0      0      0    0    0       68
+RICHTER BROTHERS (33.2)   0    0    0    106         Not monitored in 1993                                106
+ 
+Total                    17   13    0  59397  251533  237449  311407  262835  92008  26835    0    0  1241494
+* Data supplied by Willows Field Division, Water and Land Division (long-form contracts only)

@@ -1,0 +1,51 @@
+                                                                                                     Table 22
+                                          U.S. Department of Interior - Bureau of Reclamation
+                                                 Central Valley Operations Office
+                                                        Friant-Kern Canal
+                                                          2000
+Monthly Deliveries in AF
+      Water User        Jan   Feb    Mar    Apr    May    Jun    Jul    Aug   Sep   Oct   Nov   Dec    Total
+ 
+Alpaugh ID               0       0      0      0      0      0      0      0     0     0     0     0        0
+Arvin-Edison WSD         0    1644  19884  14787  15986  11635   7498  13154 12616  7511     0  3085   107800
+Atwell Island WD         0       0     23    300      0      0      0      0     0     0     0     0      323
+Delano-Earlimart ID      0     201   2400  13032  20526  28618  27340  20561 11426  7156  2469  1259   134988
+Exeter ID                0       0      9    425   1355   2768   2793   3171  3351   889   246   278    15285
+City of Fresno           0       0      0      0      0      0      0  21291 17327     0     0     0    38618
+County of Fresno SA #34  3       1     21     28   28       67     78     64    43    25    13     9      380
+Fresno ID                0       0      2   9235  10905   2425  21685    331  3899    60     7     9    48558
+Garfield WD              0       0     60    270    527    462    596    446   328    60     0     0     2749
+Hills Valley ID          0       0     27    107    348    617    784    873   599   295    17    57     3724
+International WD         0      14      0     22    194    218    279    271   228    81     0    59     1366
+Ivanhoe ID              112    207      0    132    454   1348   2199   2390  1846  1104   523   436    10751
+Kawaeah Delta WCD        0       0  11063      0      0      0      0      0     0     0     0     0    11063
+Kern County Water Agenc  0       0  33742    553      0      0      0      0     0     0     0     0    34295
+Kern-Tulare WD           34     85   2458   1772  10857   4930   4795   4707  3865  1601   996  1052    37152
+Lewis Creek WD           0       0      0      0      0      0      0     85    88     6     0     0      179
+Lindmore ID              0       0      8   1439   4797   8008   8926   9218  5751  2180   672     0    40999
+City of Lindsay          0      53     42    169    226    229    242    236   229   180    91     0     1697
+Lindsay-Strathmore ID    5      60     40    848    710   3396   3835   4245  3238  1484   803   513    19177
+Lower Tule River ID      0     301  26086  23968  27779  36021  23094  25933   799   450   845  3660   168936
+North-Kern  WSD          0       0    427      0      0      0      0      0     0     0     0     0      427
+City of Orange Cove      0      20     63     93    111    154    170    173   150   107    68    68     1177
+Orange Cove ID           0       0     60    926   3224   4453   5597   5695  4357  1797   221   631    26961
+Pixley ID                0       0   2281   4821   7699  10111  10803   3460     0     0     0     0    39175
+Porterville ID           0       0    267   1996   2501   3861   3832    644   496  1576  1560   509    17242
+Rag Gulch WD             0       0    321   1168   2449   3294   3616   2988  1607   716   257    72    16488
+Rosedale Rio Bravo WSD   0       0   8693      0  33268   2343      0      0     0     0     0     0    44304
+Saucelito ID             20     11    812   4825   6694   7252   7632   5650  3400  1034   204   249    37783
+Semitropic WSD           0       0      0      0      0      0      0      0     0     0     0     0        0
+Shafter Wasco ID        832   3925   3141   5191   7987  11089  11186   8199  4284  3395  1334   947    61510
+Southern San Joaquin MU  0    1220   5278  11285  17836  23290  24553  18420 10692  6333  1918  1336   122161
+Smallwood Vineyards      0       0     36    128      0     98     16     39    41    20     2     0      380
+Stone Corral ID          0       0      0    241    757   1413   1740   1621   973   340    68   121     7274
+Strathmore PUD           35     29     39     49      0     76     70     69    54    35    26    25      507
+Styro Tek, Inc.          0       0      1      1      0      1      1      1     0     1     1     0        7
+Tea Pot Dome WD          0       0      0    300    877   1385   1263   1331   974   486   172   118     6906
+Terra Bella ID           0       0      5    782   2104   3223   3542   3852  2686  1321   427   425    18367
+Tri-Valley WD            0       0      0      0     67    112    278    305   241   129     0     0     1132
+Tulare ID                0       0   1460  11757  34425  40983  23024    951     0     0     0     0   112600
+ 
+         Total          1041  7771 118749 110650 214691 213880 201467 160374 95588 40372 12940 14918 *********
+ 
+*  Data supplied by Fresno Field Division, Contracts Administration Division
