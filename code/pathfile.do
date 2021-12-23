@@ -6,17 +6,17 @@ pause on
 
 
 * raw data
-global DATA_SWP		"`ROOT'/data/swp"
-global DATA_CVP		"`ROOT'/data/cvp"
-global DATA_LOCO	"`ROOT'/data/colorado"
-global DATA_RIGHTS	"`ROOT'/data/rights"
-global DATA_GIS		"`ROOT'/data/gis"
+global DATA_SWP		"`ROOT'/raw/swp"
+global DATA_CVP		"`ROOT'/raw/cvp"
+global DATA_LOCO	"`ROOT'/raw/colorado"
+global DATA_RIGHTS	"`ROOT'/raw/rights"
+global DATA_GIS		"`ROOT'/raw/gis"
 
 * reference materials
-global REF_NAMES	"`ROOT'/data"
-global REF_KINGS	"`ROOT'/data/conglomerates/kings"
-global REF_KERN		"`ROOT'/data/conglomerates/kern"
-global REF_GEOLOC	"`ROOT'/data"
+global REF_NAMES	"`ROOT'/raw"
+global REF_KINGS	"`ROOT'/raw/conglomerates/kings"
+global REF_KERN		"`ROOT'/raw/conglomerates/kern"
+global REF_GEOLOC	"`ROOT'/raw"
 
 * GIS materials
 global GIS_SHP		"`ROOT'/gis/shapefile_output"

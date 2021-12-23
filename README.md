@@ -25,10 +25,11 @@ This dataset embeds many decisions made for particular purposes. **Before using 
 * Digitize Central Valley Project deliveries for 1985-92 in order to extend the database further back in time.
 * Add data from other states (toward creating a unified surface water database for the entire American West).
 
-**More info:** [Brief guide to the data](#brief-guide-to-the-data)
+**More info:** [Brief guide](#brief-guide-to-the-data)
 | [Output files](#output-files)
-| [Codebook (description of variables)](#further-documentation)
-| [Details of data construction](#further-documentation)
+| [Status of code](#status-of-code)
+| [Codebook](#further-documentation)
+| [Details of construction](#further-documentation)
 
 
 ## Brief guide to the data
@@ -57,6 +58,8 @@ allocations_aggregate_county.csv |	year X county	| Aggregate water volumes per c
 allocations_aggregate_huc8.csv |	year X watershed (8-digit HUC) |	Aggregate water volumes per watershed (8-digit hydrologic unit code), all users
 
 *Detailed analysis unit (DAU), planning area (PA), and DAU-County (DAUCo) are spatial units defined by the California Department of Water Resources (DWR). Hydrologic unit codes are defined by the U.S. Geological Survey (USGS).*
+
+## Status of code
 
 
 ## Further documentation

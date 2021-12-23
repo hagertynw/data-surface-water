@@ -9,22 +9,22 @@ ROOT = "C:/git/data-surface-water/"
 
 # Settings
 arcpy.env.overwriteOutput = True
-OUTPUT                  = ROOT + "/gis/calwaterusers.gdb/"
-FINAL_SHAPEFILES        = ROOT + "/gis/shapefile_output/"
-FINAL_TABLES            = ROOT + "/gis/table_output/"
+OUTPUT                  = ROOT + "gis/calwaterusers.gdb/"
+FINAL_SHAPEFILES        = ROOT + "gis/shapefile_output/"
+FINAL_TABLES            = ROOT + "gis/table_output/"
 
 # Input files
-RAW_HUC12               = ROOT + "data/gis/dwr/CAWBD_Certified/CA_SDE_Extraction_17Dec2008.mdb/WBD/HU12_polygon"
-RAW_DAU                 = ROOT + "data/gis/dwr/dau_v2_CA105/dau_v2_105.shp"
-RAW_DWR_AGENCIES        = ROOT + "data/gis/dwr/districts/combined/water_agencies.shp"
-RAW_COUNTY              = ROOT + "data/gis/ca_atlas/counties/shapefiles/cnty24k09_1_multipart.shp"
-RAW_ATLAS_FEDERAL       = ROOT + "data/gis/ca_atlas/water_district_boundaries/federal/WD-WaterUsers.mdb/FederalWaterUsers"
-RAW_ATLAS_STATE         = ROOT + "data/gis/ca_atlas/water_district_boundaries/state/wdst24.shp"
-RAW_ATLAS_PRIVATE       = ROOT + "data/gis/ca_atlas/water_district_boundaries/private/wdpr24.shp"
-RAW_ATLAS_FEDERAL_TABLE = ROOT + "data/gis/ca_atlas/water_district_boundaries/federal/WD-WaterUsers.mdb/Master"
-RAW_MOJAVE              = ROOT + "data/gis/ca_atlas/mojave/Mojave_Water_Agency_Service_Area_Water_Companies_2012.shp"
-RAW_CEHTP               = ROOT + "data/gis/cehtp/all_mod/service_areas.shp"
-RAW_CROPMASK            = ROOT + "data/gis/nass_cdl/tif/CMASK_2015_06.tif"
+RAW_HUC12               = ROOT + "raw/gis/dwr/CAWBD_Certified/CA_SDE_Extraction_17Dec2008.mdb/WBD/HU12_polygon"
+RAW_DAU                 = ROOT + "raw/gis/dwr/dau_v2_CA105/dau_v2_105.shp"
+RAW_DWR_AGENCIES        = ROOT + "raw/gis/dwr/districts/combined/water_agencies.shp"
+RAW_COUNTY              = ROOT + "raw/gis/ca_atlas/counties/shapefiles/cnty24k09_1_multipart.shp"
+RAW_ATLAS_FEDERAL       = ROOT + "raw/gis/ca_atlas/water_district_boundaries/federal/WD-WaterUsers.mdb/FederalWaterUsers"
+RAW_ATLAS_STATE         = ROOT + "raw/gis/ca_atlas/water_district_boundaries/state/wdst24.shp"
+RAW_ATLAS_PRIVATE       = ROOT + "raw/gis/ca_atlas/water_district_boundaries/private/wdpr24.shp"
+RAW_ATLAS_FEDERAL_TABLE = ROOT + "raw/gis/ca_atlas/water_district_boundaries/federal/WD-WaterUsers.mdb/Master"
+RAW_MOJAVE              = ROOT + "raw/gis/ca_atlas/mojave/Mojave_Water_Agency_Service_Area_Water_Companies_2012.shp"
+RAW_CEHTP               = ROOT + "raw/gis/cehtp/all_mod/service_areas.shp"
+RAW_CROPMASK            = ROOT + "raw/gis/nass_cdl/tif/CMASK_2015_06.tif"
 
 # Set some initial Arc stuff
 coordsys_geog = arcpy.SpatialReference('WGS 1984')
