@@ -1,20 +1,6 @@
 
 // Purpose: Calculate water rights diversions per user and sector
 
-clear all
-pause on
-set more off
-*ssc install egenmore
-
-// Set root and load pathfile
-if "`c(os)'"=="Windows" {
-	local ROOT "H:"
-}
-else {
-	local ROOT "/bbkinghome/nhagerty"
-}
-qui do "`ROOT'/analysis/allo/do/allo_pathfile.do"
-
 
 // Load master names list
 import excel using "$REF_NAMES/names_crosswalk.xlsx", sheet("allnames") firstrow clear

@@ -2,19 +2,6 @@
 // Purpose: Combine water rights data from two source files, clean, and estimate diversions
 // 	 (Follows and builds upon cleaning procedures specified by SWRCB)
 
-clear all
-pause on
-set more off
-
-// Set root and load pathfile
-if "`c(os)'"=="Windows" {
-	local ROOT "H:"
-}
-else {
-	local ROOT "/bbkinghome/nhagerty"
-}
-qui do "`ROOT'/analysis/allo/do/allo_pathfile.do"
-
 
 // Prepare dataset of 2014 reported diversions and SWRCB demand estimates (WRUDS spreadsheet)
 use "$DATA_TEMP/waterrights_wruds.dta", clear

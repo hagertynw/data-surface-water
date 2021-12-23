@@ -1,19 +1,6 @@
 
 // Purpose: Combine the four datasets
 
-clear all
-pause on
-set more off
-
-// Set root and load pathfile
-if "`c(os)'"=="Windows" {
-	local ROOT "H:"
-}
-else {
-	local ROOT "/bbkinghome/nhagerty"
-}
-qui do "`ROOT'/analysis/allo/do/allo_pathfile.do"
-
 
 // Start with CVP data
 use "$PREPPED/allocations_source_cvp.dta", clear

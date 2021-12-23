@@ -1,16 +1,8 @@
 
+args ROOT
 clear all
 set more off
 pause on
-
-
-// Set root directory
-if "`c(os)'"=="Windows" {
-	global ROOT "H:/git/CA_surface_water"
-}
-else {
-	global ROOT "/bbkinghome/nhagerty/git/CA-surface-water"
-}
 
 
 * raw data

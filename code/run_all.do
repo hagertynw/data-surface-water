@@ -3,23 +3,43 @@ clear all
 set more off
 pause on
 
-// Set root
-if "`c(os)'"=="Windows" {
-	local ROOT "H:"
-}
-else {
-	local ROOT "/bbkinghome/nhagerty"
-}
+ssc install geoinpoly
+ssc install egenmore
 
-// Set path to pathfile
-local pathpath "`ROOT'/analysis/allo/do"
 
-// Run file to set path globals
-do "`pathpath'/allo_pathfile.do"
+// Set root (CHANGE ON A NEW COMPUTER)
+local ROOT "C:/git/data-surface-water"
+
+// Set path globals
+do "`ROOT'/code/allo_pathfile.do"
 
 
 
-// I. CLEAN WATER RIGHTS DATA
+// I. CREATE POLYGON SHAPEFILES
+
+// Create shapefiles of water districts and other geographical polygons
+* inputs:	$DATA_GIS/dwr/watersheds/CA_SDE_Extraction_17Dec2008.mdb/WBD/HU12_polygon
+*			$DATA_GIS/dwr/dau/dau_v2_105.shp
+*			$DATA_GIS/dwr/districts/combined/water_agencies.shp
+*			$DATA_GIS/ca_atlas/counties/cnty24k09_1_multipart.shp
+*			$DATA_GIS/ca_atlas/districts/federal/WD-WaterUsers.mdb/FederalWaterUsers
+*			$DATA_GIS/ca_atlas/districts/federal/WD-WaterUsers.mdb/Master
+*			$DATA_GIS/ca_atlas/districts/state/wdst24.shp
+*			$DATA_GIS/ca_atlas/districts/private/wdpr24.shp
+*			$DATA_GIS/ca_atlas/mojave/Mojave_Water_Agency_Service_Area_Water_Companies_2012.shp
+*			$DATA_GIS/cehtp/service_areas.shp
+*			$DATA_GIS/nass_cdl/CMASK_2015_06.tif
+* outputs:	$GIS_SHP/huc8_final.shp
+*			$GIS_SHP/dauco_final.shp
+*			$GIS_SHP/users_final.shp
+*			$GIS_TAB/users_huc8.xls
+*			$GIS_TAB/users_dauco.xls
+*			$GIS_TAB/federal_table.xls
+do "$CODE/1_users/make_users.py"
+
+
+
+// II. CLEAN WATER RIGHTS DATA
 
 // 1. Clean eWRIMS data (statewide data, with 2010-13 diversions)
 * inputs:	$DATA_RIGHTS/ewrims/wr70_corrected.csv
@@ -48,7 +68,7 @@ do "$CODE/2_rights/4_rights_calculate.do"
 
 
 
-// II. CLEAN PROJECT DATA
+// III. CLEAN PROJECT DATA
 
 // State Water Project
 * inputs:	$DATA_SWP/bulletin_132/B132-18 Tables.xlsx
@@ -57,7 +77,7 @@ do "$CODE/2_rights/4_rights_calculate.do"
 *			$REF_NAMES/names_crosswalk.xlsx
 *			$REF_KERN/swp-contracts-in-kern-county.xlsx
 * outputs:	$PREPPED/allocations_source_swp.dta
-do "$CODE/3_projects/1_part_swp.do"
+do "$CODE/3_projects/part_swp.do"
 
 // Central Valley Project
 * inputs:	$DATA_CVP/deliveries/deliveries 1993-1997.xlsx
@@ -67,37 +87,17 @@ do "$CODE/3_projects/1_part_swp.do"
 *			$DATA_CVP/cvp_contractors.xlsx
 *			$REF_NAMES/names_crosswalk.xlsx
 * outputs:	$PREPPED/allocations_source_cvp.dta
-do "$CODE/3_projects/1_part_cvp.do"
+do "$CODE/3_projects/part_cvp.do"
 
 // Lower Colorado Project
 * inputs:	$DATA_LOCO/accounting_reports.xlsx
 *			$REF_NAMES/names_crosswalk.xlsx
 * outputs:	$PREPPED/allocations_source_loco.dta
-do "$CODE/3_projects/1_part_loco.do"
+do "$CODE/3_projects/part_loco.do"
 
 
 
-// III. COMBINE DATA
-
-// 0. Create shapefiles of water districts and other geographical polygons
-* inputs:	$DATA_GIS/dwr/watersheds/CA_SDE_Extraction_17Dec2008.mdb/WBD/HU12_polygon
-*			$DATA_GIS/dwr/dau/dau_v2_105.shp
-*			$DATA_GIS/dwr/districts/combined/water_agencies.shp
-*			$DATA_GIS/ca_atlas/counties/cnty24k09_1_multipart.shp
-*			$DATA_GIS/ca_atlas/districts/federal/WD-WaterUsers.mdb/FederalWaterUsers
-*			$DATA_GIS/ca_atlas/districts/federal/WD-WaterUsers.mdb/Master
-*			$DATA_GIS/ca_atlas/districts/state/wdst24.shp
-*			$DATA_GIS/ca_atlas/districts/private/wdpr24.shp
-*			$DATA_GIS/ca_atlas/mojave/Mojave_Water_Agency_Service_Area_Water_Companies_2012.shp
-*			$DATA_GIS/cehtp/service_areas.shp
-*			$DATA_GIS/nass_cdl/CMASK_2015_06.tif
-* outputs:	$GIS_SHP/huc8_final.shp
-*			$GIS_SHP/dauco_final.shp
-*			$GIS_SHP/users_final.shp
-*			$GIS_TAB/users_huc8.xls
-*			$GIS_TAB/users_dauco.xls
-*			$GIS_TAB/federal_table.xls
-do "$CODE/make_users.py"
+// IV. COMBINE DATA
 
 // 1. Prepare tables of geographical polygons
 * inputs:	$GIS_SHP/users_final.shp
@@ -149,29 +149,3 @@ do "$CODE/4_combine/2_combine_parts.do"
 *			$PREPPED/allocations_aggregate_pa.dta
 *			$PREPPED/allocations_aggregate_county.dta
 do "$CODE/4_combine/3_match_geographies.do"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

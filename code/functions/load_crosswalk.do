@@ -4,7 +4,7 @@
 preserve
 
 	* load basic list & set aside
-	import excel using "names_crosswalk.xlsx", sheet("allnames") firstrow clear
+	import excel using "$REF_NAMES/names_crosswalk.xlsx", sheet("allnames") firstrow clear
 	keep user std_name
 	duplicates drop
 	isid user

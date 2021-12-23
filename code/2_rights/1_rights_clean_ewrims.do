@@ -3,19 +3,6 @@
 //  (Contains records of all water rights in the state and reported diversions in 2010-13)
 //	Downloaded from: http://www.waterboards.ca.gov/waterrights/water_issues/programs/hearings/byron_bethany/docs/exhibits/pt/wr70.csv
 
-clear all
-pause on
-set more off
-
-// Set root and load pathfile
-if "`c(os)'"=="Windows" {
-	local ROOT "H:"
-}
-else {
-	local ROOT "/bbkinghome/nhagerty"
-}
-qui do "`ROOT'/analysis/allo/do/allo_pathfile.do"
-
 
 // Load raw data
 import delimited using "$DATA_RIGHTS/ewrims/wr70_corrected.csv", stringcols(4) clear

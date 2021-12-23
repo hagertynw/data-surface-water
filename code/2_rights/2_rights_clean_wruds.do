@@ -6,19 +6,6 @@
 //	 procedures for the entire state are able to accurately reproduce SWRCB's procedures.)
 //  Downloaded from: https://www.waterboards.ca.gov/waterrights/water_issues/programs/drought/analysis/
 
-clear all
-pause on
-set more off
-
-// Set root and load pathfile
-if "`c(os)'"=="Windows" {
-	local ROOT "H:"
-}
-else {
-	local ROOT "/bbkinghome/nhagerty"
-}
-qui do "`ROOT'/analysis/allo/do/allo_pathfile.do"
-
 
 // Import data
 import excel using "$DATA_RIGHTS/drought_analysis/info_order_demand/WRUDS 2015-06-15.xlsx", 	///

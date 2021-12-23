@@ -1,20 +1,6 @@
 
 // Purpose: Match users/districts to geographic polygons & distribute volumes across multiple areas
 
-clear all
-pause on
-set more off
-ssc install geoinpoly
-
-// Set root and load pathfile
-if "`c(os)'"=="Windows" {
-	local ROOT "H:"
-}
-else {
-	local ROOT "/bbkinghome/nhagerty"
-}
-qui do "`ROOT'/analysis/allo/do/allo_pathfile.do"
-
 
 local volvars	vol_deliv_cy vol_deliv_wy vol_maximum 	///
 				swp_deliveries swp_maxvol swp_basemax	///
@@ -23,7 +9,7 @@ local volvars	vol_deliv_cy vol_deliv_wy vol_maximum 	///
 
 				
 // Load variable-labeling code
-include "$CODE/labelAllocationVariables.do"
+include "$CODE/functions/labelAllocationVariables.do"
 
 
 // Prepare list of manual geolocations
