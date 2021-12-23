@@ -73,6 +73,7 @@ labelAllocationVariables
 sort std_name year
 isid std_name year
 save "$PREPPED/allocations_subset_polygonusers.dta", replace
+export delimited "$PREPPED/allocations_subset_polygonusers.csv", replace
 
 
 
@@ -122,6 +123,8 @@ save "$PREPPED/allocations_subset_polygonusers.dta", replace
 	isid user_id year dauco_id
 	compress
 	save "$PREPPED/allocations_subset_polygonusersXdauco.dta", replace
+	export delimited "$PREPPED/allocations_subset_polygonusersXdauco.csv", replace
+
 	
 // b. Geography: HUC8
 
@@ -165,6 +168,8 @@ save "$PREPPED/allocations_subset_polygonusers.dta", replace
 	isid user_id year huc8
 	compress
 	save "$PREPPED/allocations_subset_polygonusersXhuc8.dta", replace
+	export delimited "$PREPPED/allocations_subset_polygonusersXhuc8.csv", replace
+
 
 	
 // 4. MAKE DATASET OF POINT USERS
@@ -214,6 +219,8 @@ save "$PREPPED/allocations_subset_polygonusers.dta", replace
 	labelAllocationVariables
 	compress
 	save "$PREPPED/allocations_subset_pointusers.dta", replace
+	export delimited "$PREPPED/allocations_subset_pointusers.csv", replace
+
 
 
 	
@@ -266,6 +273,7 @@ save "$PREPPED/allocations_subset_polygonusers.dta", replace
 	labelAllocationVariables
 	compress
 	save "$PREPPED/allocations_aggregate_huc8.dta", replace
+	export delimited "$PREPPED/allocations_aggregate_huc8.csv", replace
 
 
 // b. Geography: DAUCo / PA / county
@@ -322,6 +330,7 @@ save "$PREPPED/allocations_subset_polygonusers.dta", replace
 			labelAllocationVariables
 			compress
 			save "$PREPPED/allocations_aggregate_dauco.dta", replace
+			export delimited "$PREPPED/allocations_aggregate_dauco.csv", replace
 		restore
 
 		
@@ -334,7 +343,7 @@ save "$PREPPED/allocations_subset_polygonusers.dta", replace
 		foreach level in dau pa county {
 		
 			* collapse to level
-			use `dauco'
+			use `dauco', clear
 			collapse (sum) vol_deliv_cy-rights_avgdivert_mi allocation-cvp_allo_mi, by(year `var_`level'')
 			sort `var_`level'' year
 			isid `var_`level'' year
@@ -362,6 +371,7 @@ save "$PREPPED/allocations_subset_polygonusers.dta", replace
 			labelAllocationVariables
 			compress
 			save "$PREPPED/allocations_aggregate_`level'.dta", replace
+			export delimited "$PREPPED/allocations_aggregate_`level'.csv", replace
 
 		}
 		

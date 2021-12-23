@@ -1,14 +1,11 @@
 
 // Purpose: Load shapefiles and their intersections
 
-/*
 // Convert shapefiles to dta
 cd "$GIS_SHP"
 spshape2dta users_final, replace
 spshape2dta dauco_final, replace
 spshape2dta huc8_final, replace
-spshape2dta zipcodes, replace
-*/
 
 // Prepare master names list
 import excel using "$REF_NAMES/names_crosswalk.xlsx", sheet("allnames") firstrow clear

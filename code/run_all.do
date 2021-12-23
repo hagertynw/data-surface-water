@@ -11,7 +11,7 @@ ssc install egenmore
 local ROOT "C:/git/data-surface-water"
 
 // Set path globals
-do "`ROOT'/code/allo_pathfile.do"
+do "`ROOT'/code/pathfile.do" "`ROOT'"
 
 
 

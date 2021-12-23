@@ -1,4 +1,5 @@
 
+cap program drop labelAllocationVariables
 program define labelAllocationVariables
 	
 	cap label var year "Year"
