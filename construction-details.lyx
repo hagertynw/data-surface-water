@@ -43,8 +43,6 @@ theorems-named
 \paperfontsize 11
 \spacing onehalf
 \use_hyperref true
-\pdf_title "Liquid Constrained in California: Estimating the Potential Gains from Water Markets"
-\pdf_author "Nick Hagerty"
 \pdf_bookmarks true
 \pdf_bookmarksnumbered false
 \pdf_bookmarksopen false
