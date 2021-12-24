@@ -3,7 +3,7 @@
 
 Maintained by [Nick Hagerty](https://www.nickhagerty.com/), Montana State University
 
-This repository contains data on reported deliveries, diversions, and allocations of surface water in California, along with all scripts and raw data used to produce it. 
+This repository contains data on volumes of reported deliveries, diversions, and allocations of surface water in California, along with all scripts and raw data used to produce it. 
 
 The data cover all users in the state at the highest level of distribution (i.e., the wholesale level), by user, sector and year, from 1993 through 2018. It is assembled entirely from other publicly available sources. This database is the only publicly available source I am aware of that:
 
