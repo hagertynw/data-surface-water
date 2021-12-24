@@ -171,27 +171,27 @@ pre code {
 <h1>California Surface Water Data</h1>
 <p>Maintained by <a href="https://www.nickhagerty.com/">Nick Hagerty</a>, Montana State University</p>
 <p>This repository contains data on reported deliveries, diversions, and allocations of surface water in California, along with all scripts and raw data used to produce it.</p>
-<p>The data cover all users in the state at the highest level of distribution (i.e., the wholesale level), by user, sector and year, from 1993 through 2016. It is assembled entirely from other publicly available sources. This database is the only publicly available source I am aware of that:</p>
+<p>The data cover all users in the state at the highest level of distribution (i.e., the wholesale level), by user, sector and year, from 1993 through 2018. It is assembled entirely from other publicly available sources. This database is the only publicly available source I am aware of that:</p>
 <ul>
 <li>covers the entire state of California</li>
 <li>is reported, not estimated</li>
 <li>is non-anonymous (links water use to the specific identities of the water users)</li>
 <li>is spatially explicit (links water use to the place it is used, as granularly as possible)</li>
 </ul>
-<p>This dataset embeds many decisions made for particular purposes. <strong>Before using it for your own purposes, please read the documentation and understand how it was constructed</strong> (and ask me if I’ve left something out). There is a good chance you will want to make decisions that are different from mine. Generally, this data is constructed in ways that are well-suited to economics research and causal inference. It focuses on clearly attributing and accounting for changes in water supplies over time and differences across well-defined geographical areas (in order, for example, to minimize bias in fixed effect regressions). It is not constructed for the purpose of estimating or predicting water use at a given time and place as accurately as possible. If this is your goal, you may want to either use other data sources, or use this data as an input to further analysis.</p>
+<p>This dataset embeds many decisions made for particular purposes. <strong>Before using it for your own purposes, please read the documentation and understand how it was constructed</strong> (and ask me if I’ve left something out). There is a good chance you will want to make decisions that are different from mine. Generally, this data is constructed in ways that are well-suited to economics research and causal inference. It focuses on clearly attributing and accounting for changes in water supplies over time and differences across well-defined geographical areas (in order, for example, to minimize bias in fixed effect regressions). It is <em>not</em> constructed for the purpose of estimating or predicting water use at a given time and place as accurately as possible. If this is your goal, other data sources may fit your needs better (such as the <a href="https://data.cnra.ca.gov/dataset/water-plan-water-balance-data">water balance data</a> from the California Water Plan, or <a href="https://openetdata.org/">OpenET</a> or alternatively you might use this data as an input to further analysis.</p>
 <p><strong>Use:</strong> You are welcome to modify and use this data and code as you like. If you do, please acknowledge the source and cite the paper for which I assembled it, <a href="https://hagertynw.github.io/webfiles/Surface_Water_Adaptation.pdf">“Adaptation to Water Scarcity in Irrigated Agriculture.”</a> Please also send me a note and let me know how you’re using it - I would love to hear. My contact information is <a href="https://www.nickhagerty.com/">here</a>.</p>
 <p><strong>Contributions:</strong> I would love to see this database grow into a more useful resource for the water research community. If you would like to help, just open a pull request or contact me to discuss. Here are some useful tasks I see:</p>
 <ul>
 <li>Update with the most recent year(s) of data.</li>
-<li>Finish converting the code to R (from Stata).</li>
+<li>Finish converting the code to R.</li>
 <li>Update the water rights data with the newly available eWRIMS database.</li>
 <li>Add and document other output formats you find useful for your own work.</li>
 <li>Digitize Central Valley Project deliveries for 1985-92 in order to extend the database further back in time.</li>
 <li>Add data from other states (toward creating a unified surface water database for the entire American West).</li>
 </ul>
-<p><strong>More info:</strong> <a href="#brief-guide-to-the-data">Brief guide to the data</a> | <a href="#output-files">Output files</a> | <a href="#further-documentation">Codebook (description of variables)</a> | <a href="#further-documentation">Details of data construction</a></p>
-<div id="brief-guide-to-the-data" class="section level2">
-<h2>Brief guide to the data</h2>
+<p><strong>More info:</strong> <a href="#brief-guide-to-the-data">Brief overview</a> | <a href="#output-files">Output files</a> | <a href="#using-the-data">Using the data</a> | <a href="#about-the-code">Code</a> | <a href="#further-documentation">Codebook</a> | <a href="#further-documentation">Construction details</a></p>
+<div id="brief-overview-of-the-data" class="section level2">
+<h2>Brief overview of the data</h2>
 <p><strong>Deliveries and diversions, or supplies,</strong> are the quantities of water actually received by water users. They come from four sources: deliveries from the Central Valley Project (CVP), the State Water Project (SWP), and the Lower Colorado Project, and diversions on the basis of surface water rights. For water rights, historical user-specific data is unavailable, so fixed quantities are created from the most reliable data available and imputed for all years in the dataset. (This is a reasonable approximation for many purposes, since rights have changed little since 1980 and beneficial-use requirements discourage under-consumption. Diversions on the basis of water rights likely fall in drought years, but no systematic data is available, and the year-to-year variation is likely much smaller than for the projects, which themselves hold more junior rights.)</p>
 <p><strong>Allocations</strong> are the quantities of surface water assigned to users each year. They are calculated by multiplying maximum entitlements by allocation percentages. Maximum entitlements, set in long-term project contracts or permanent water rights, are set to be time-invariant in this dataset despite minor changes over time. Allocation percentages, set by annual regulatory determinations, are determined yearly for each of 14 separate contract types in the federal and state water projects. For water rights, allocation percentages are set to 100% since they have essentially never been curtailed directly by the state.</p>
 <p><strong>Water user polygons</strong> link users to specific geographical areas whenever possible. By volume, the vast majority of water use is linked to spatial boundary information. Nearly all other water users are spatially identified by the point of diversion.</p>
@@ -262,11 +262,31 @@ pre code {
 </table>
 <p><em>Detailed analysis unit (DAU), planning area (PA), and DAU-County (DAUCo) are spatial units defined by the California Department of Water Resources (DWR). Hydrologic unit codes are defined by the U.S. Geological Survey (USGS).</em></p>
 </div>
+<div id="using-the-data" class="section level2">
+<h2>Using the data</h2>
+<p>There are two main ways to use the data, depending on how you intend to aggregate it spatially:</p>
+<ol style="list-style-type: decimal">
+<li><p><strong>Use an aggregated dataset.</strong> For certain geographical divisions, I’ve already done the aggregation (county, PA, DAU, DAUxCounty, HUC8 or lower). If one of these works for your purposes, you can simply merge in the corresponding <code>allocations_aggregate_*.csv</code> dataset.</p></li>
+<li><p><strong>Aggregate the data yourself.</strong> If you need to aggregate to a different geography, you have to merge in 2 types of data: polygon users and point users.</p>
+<ul>
+<li><strong>Polygon users</strong> (the most by volume) are users for which spatial boundary information is available (in <code>shapefile_output/users_final.shp</code>). Intersect this shapefile with your preferred geography, merge in <code>allocations_subset_polygonusers.csv</code>, and decide how you want to apportion the water quantities across the intersection pieces.</li>
+<li><strong>Point users</strong> (the most by count) are users for which we only know the point of diversion. Perform a spatial join of <code>allocations_subset_pointusers.csv</code> to your preferred geography. Keep in mind that the point of diversion is not the same as the place of use, which is unobserved.</li>
+</ul></li>
+</ol>
+<p><strong>Choice of geographical division:</strong> For point users, the resulting data is highly sensitive to the choice of geographical division, due to the unobserved distance between the point of diversion and place of use. Aggregation to finer spatial units results in noisy and nonsensical values due to the imprecise locations, while aggregation to coarser units gives up accuracy. I find planning areas to be a reasonable intermediate choice. I also prefer management-based geographical divisions (e.g., planning areas) to watersheds (e.g., HUC8) because watershed boundaries split at rivers, whereas points of diversion are located on rivers and may have places of use on either side of the river.</p>
+<p><strong>Example:</strong> In my paper on adaptation to surface water scarcity (linked above), I wanted to compare land use outcomes across water districts that have different levels of agricultural water supplies. District-specific supplies are given in the polygon users data subset, but I also needed a way to incorporate the point users despite the unobserved place of use. I chose to use a spatial unit of analysis I call zones, defined by the intersection of district (i.e., user) boundaries with each other and also with planning areas. I spread all polygon-user water volumes evenly across the cropland within a district, all point-user water volumes evenly across the cropland within a planning area, and summed the per-acre water volumes across the district and planning area of each zone.</p>
+<p><strong>Fractional volumes:</strong> Either of these datasets (<code>allocations_subset_polygonusersXdauco.csv</code> and <code>allocations_subset_polygonusersXhuc8.csv</code>) can substitute for the polygon users dataset. They are intended to make it easier to spatially aggregate the polygon users, by skipping the intersection and apportionment steps. Summing volumes to year X user across geographies in either of these datasets will recover <code>allocations_subset_polygonusers.csv</code>. (M&amp;I water volumes are apportioned evenly over area, according to the fraction of the user polygon that falls within each of the DAUCo or HUC8 geographical divisions. Ag water volumes are apportioned evenly over cropland area, according to the fraction of cropland within the user polygon that falls within each geographical division, using the 2015 cropland mask from the USDA’s Cropland Data Layer.)</p>
+</div>
+<div id="about-the-code" class="section level2">
+<h2>About the code</h2>
+<p>The code to produce the data is currently written mostly in Stata. One script is written in Python but relies on an ArcGIS license. My goal is to convert all code to open-source languages so that everyone can use and modify the code.</p>
+<p>The <code>R-conversion</code> subfolder contains significant progress toward converting the code to R. (This effort so far has been generously supported by Fiona Burlig, Louis Preonas, and Matt Woerman.) However, the R code currently does not generate output identical to the Stata code, and the differences are not yet documented. Any help with this effort would be greatly appreciated.</p>
+<p>The <code>code/run_all.do</code> script lists all other scripts necessary to reproduce the data, along with their inputs and outputs. Most file paths are defined in <code>code/pathfile.do</code>. To run the code on your own computer, the only thing you should need to change is the definition of the project root directory in two places: <code>code/run_all.do</code> and <code>code/1_users/make_users.py</code>.</p>
+</div>
 <div id="further-documentation" class="section level2">
 <h2>Further documentation</h2>
-<p>Codebook (definitions of variables in each dataset)</p>
-<p>Notes: ag = agricultural, M&amp;I = municipal and industrial, af = acre-feet, water year = October 1 of previous year through September 30 of stated year.</p>
-<p>Details of data sources and processing choices</p>
+<p><a href="https://github.com/hagertynw/data-surface-water/blob/master/codebook.xlsx?raw=true">Codebook</a> (definitions of variables in each dataset). Notes: ag = agricultural, M&amp;I = municipal and industrial, af = acre-feet (a unit of volume). The water year runs from October 1 of the previous year through September 30 of the stated year.</p>
+<p><a href="https://github.com/hagertynw/data-surface-water/blob/master/construction-details.pdf?raw=true">Details of data sources and processing choices</a>.</p>
 </div>
 </div>
 
