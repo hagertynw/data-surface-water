@@ -185,7 +185,7 @@ import excel using "$GIS_TAB/users_huc8.xls", firstrow clear
 	save "$DATA_TEMP/intersections_districtXhuc8.dta", replace
 
 	* expand to year, for merging
-	expand 40
+	expand 41
 	bys std_name huc8: gen year = 1980+_n
 	save "$DATA_TEMP/intersections_districtXhuc8Xyears.dta", replace
 
@@ -225,7 +225,7 @@ import excel using "$GIS_TAB/users_dauco.xls", firstrow clear
 	save "$DATA_TEMP/intersections_districtXdauco.dta", replace
 
 	* expand to year, for merging
-	expand 40
+	expand 41
 	bys std_name dauco_id: gen year = 1980+_n
 	save "$DATA_TEMP/intersections_districtXdaucoXyears.dta", replace
 

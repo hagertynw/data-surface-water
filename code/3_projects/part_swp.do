@@ -5,7 +5,7 @@
 // LOAD EACH COMPONENT DATASET
 
 	// Load contractor names
-	import excel using "$DATA_SWP/bulletin_132/B132-19 Tables.xlsx", sheet("Contractors") firstrow clear
+	import excel using "$DATA_SWP/bulletin_132/B132-21 Tables.xlsx", sheet("Contractors") firstrow clear
 	rename Contractor user_long
 	rename Shortname user
 	replace user_long = upper(user_long)
@@ -29,7 +29,7 @@
 	save `pctallo'
 	
 	// Load maximum contract amounts (Table B-4)
-	import excel using "$DATA_SWP/bulletin_132/B132-19 Tables.xlsx", sheet("B4") cellrange(A3:AN79) clear
+	import excel using "$DATA_SWP/bulletin_132/B132-21 Tables.xlsx", sheet("B4") cellrange(A3:AN79) clear
 	drop in 2
 	foreach v of varlist A-AN {
 		rename `v' v`v'
@@ -52,7 +52,7 @@
 	save `contract_amounts'
 
 	// Load deliveries (Table B-5B)
-	import excel using "$DATA_SWP/bulletin_132/B132-19 Tables.xlsx", sheet("B-5B") cellrange(A3:AN79) clear
+	import excel using "$DATA_SWP/bulletin_132/B132-21 Tables.xlsx", sheet("B-5B") cellrange(A3:AN79) clear
 	drop in 2
 	foreach v of varlist A-AN {
 		rename `v' v`v'
@@ -138,7 +138,7 @@
 		drop mergemiag
 		
 	// Drop future projections (not real data)
-	drop if year>2019
+	drop if year>2021
 
 	// Reshape to sector
 	gen sector = ""
