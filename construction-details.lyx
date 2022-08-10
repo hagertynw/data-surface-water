@@ -144,7 +144,7 @@ Maximum entitlements.
 
 \begin_layout Standard
 Maximum contract (Table A) amounts are taken from Table B-4 of Bulletin
- 132-18 Appendix B, downloaded from the DWR at 
+ 132-21 Appendix B, downloaded from the DWR at 
 \begin_inset Flex URL
 status open
 
@@ -156,7 +156,7 @@ https://water.ca.gov/Programs/State-Water-Project/Management/Bulletin-132
 \end_inset
 
 .
- They are available by user, sector, and year from 1962 through 2018.
+ They are available by user, sector, and year from 1962 through 2021.
  For a time-invariant baseline amount, I choose maximum entitlements in
  1990, because that is the first year all currently-existing sections of
  the SWP were completed, and maximum Table A amounts were stabilized.
@@ -168,8 +168,8 @@ Allocation percentages.
 
 \begin_layout Standard
 Percentage allocations by year and sector are available from 1970 through
- 2018.
- For 1996-2018 they are taken from published notices to SWP contractors
+ 2021.
+ For 1996-2021 they are taken from published notices to SWP contractors
  (i.e., users holding contracts), downloaded from the DWR at 
 \begin_inset Flex URL
 status open
@@ -203,7 +203,7 @@ Deliveries.
 
 \begin_layout Standard
 Deliveries by user, sector, and year are taken from Table B-5B of Bulletin
- 132-18 Appendix B, downloaded from DWR at 
+ 132-21 Appendix B, downloaded from DWR at 
 \begin_inset Flex URL
 status open
 
@@ -215,7 +215,7 @@ https://water.ca.gov/Programs/State-Water-Project/Management/Bulletin-132
 \end_inset
 
 .
- They are available from 1962 through 2018 and include Table A amounts plus
+ They are available from 1962 through 2021 and include Table A amounts plus
  nonproject, surplus, and Article 21 water deliveries.
 \end_layout
 
@@ -438,7 +438,7 @@ Deliveries.
 \end_layout
 
 \begin_layout Standard
-Diversions by user and month are available for 2003-2018 in the annual Colorado
+Diversions by user and month are available for 2003-2021 in the annual Colorado
  River Accounting and Water Use Reports for Arizona, California, and Nevada,
  and for 1980-2002 in the annual Compilation of Records in Accordance with
  Article V.
@@ -807,7 +807,7 @@ reference "subsec:DataAppendix-Crosswalk-file"
 
 ), and sum supplies and maximum entitlements across sources.
  I restrict to years beginning in 1981, when data is available from all
- four sources, and ending in 2018.
+ four sources, and ending in 2021.
  The result is a nearly balanced panel of 7,188 users over 38 years, for
  a total of 273,144 observations.
 \end_layout
