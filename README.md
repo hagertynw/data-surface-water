@@ -25,7 +25,7 @@ This dataset embeds many decisions made for particular purposes. **Before using 
 * Digitize Central Valley Project deliveries for 1985-92 in order to extend the database further back in time.
 * Add data from other states (toward creating a unified surface water database for the entire American West).
 
-**More info:** [Brief overview](#brief-guide-to-the-data)
+**More info:** [Brief overview](#brief-overview-of-the-data)
 | [Output files](#output-files)
 | [Using the data](#using-the-data)
 | [Code](#about-the-code)
