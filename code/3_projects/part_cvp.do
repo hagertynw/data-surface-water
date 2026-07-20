@@ -59,6 +59,16 @@ save `masternames', replace
 		append using `importfile'
 		save `appendfile', replace
 	}
+	forvalues sheet=22/28 {
+		disp "`sheet'"
+		import excel using "$DATA_CVP/deliveries/deliveries 2022-2025.xlsx", sheet(`sheet') firstrow clear
+		tostring category, replace
+		tempfile importfile
+		save `importfile', replace
+		use `appendfile', clear
+		append using `importfile'
+		save `appendfile', replace
+	}
 
 	* clean up
 	drop Total
@@ -70,7 +80,7 @@ save `masternames', replace
 	drop if category=="Refuges"
 	drop if regexm(user,"TOTAL")
 	drop if regexm(user,"DMC PLUS O|TOT DMC DELIVERIES|215 WATER|DWR INTERTIE")
-	drop if regexm(user,"PHASE|FLOOD RELEASES|FISH FACILITIES|CONSTRUCTION WATER")
+	drop if regexm(user,"PHASE|FLOOD RELEASES|FLOOD CONVEYANCE|FISH FACILITIES|CONSTRUCTION WATER")
 	drop if regexm(user,"CHINA ISLAND|WASTEWAY|OPERATIONAL WATER")
 	drop if regexm(user,"SAN JOAQUIN DRAIN|USBR|WARREN CONTRACTS")
 	drop if regexm(user,"NEILL PUMP|NEILL NET")
